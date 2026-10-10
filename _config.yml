@@ -1,0 +1,15 @@
+# Site settings. You rarely need to change this file.
+# If you do, keep the spacing exactly as it is: one space after each colon,
+# and two spaces before each "- " line.
+
+title: Cairns Engineering Society
+description: The one-stop page for JCU Cairns engineering students. Events, subjects, placement and more.
+
+# Plain default GitHub look (no custom styling)
+theme: jekyll-theme-primer
+
+# Files and folders that must NOT appear on the website.
+# (Anything starting with _ , like _guides and _templates, is already hidden automatically.)
+exclude:
+  - README.md
+  - _source-docs
