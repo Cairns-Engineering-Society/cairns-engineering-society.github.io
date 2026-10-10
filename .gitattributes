@@ -1,0 +1,11 @@
+# Keeps text files consistent whether they are edited on Windows, Mac or github.com.
+# You never need to touch this file.
+* text=auto eol=lf
+
+# These are never text, so Git must not try to change them
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.docx binary
+*.xlsx binary

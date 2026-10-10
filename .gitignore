@@ -1,0 +1,17 @@
+# Files listed here are NEVER uploaded to GitHub.
+
+# Source documents (e.g. official placement PDFs) used to help write pages.
+# Keep them on your own computer only.
+_source-docs/
+
+# Junk files Windows and Mac create automatically
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporary lock files Word/Excel create while a document is open
+~$*
+
+# Output from previewing the site on your own computer (advanced, optional)
+_site/
+.jekyll-cache/
