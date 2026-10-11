@@ -21,7 +21,7 @@ You may fix obvious typos, but don't change what they meant.
 2. Open `testimonials.md` and click the pencil icon ✏️.
 3. Paste the block **just below the grey "HOW TO ADD A TESTIMONIAL" note**, so it's above the other testimonials (newest first). Leave a blank line before and after it.
 4. Replace everything in `[square brackets]`.
-5. If the placeholder example testimonial is still there, delete it.
+5. If the line `*No testimonials yet...*` is still there, delete it.
 6. Click **Commit changes...**, write a message like `Add testimonial from Sam`, and click **Commit changes**.
 
 ## Check it worked

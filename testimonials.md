@@ -12,9 +12,7 @@ Want to share yours? [Fill in the testimonial form](https://forms.gle/UomxoXyUfC
   (newest first). Only publish testimonials where the student agreed on the form.
 -->
 
-### [PLACEHOLDER: Name or "Anonymous"]: [Major], [e.g. Graduated 2025]
-
-> "[PLACEHOLDER: Testimonial text]"
+*No testimonials yet. [Be the first to share yours!](https://forms.gle/UomxoXyUfCtqANSL6)*
 
 ---
 
