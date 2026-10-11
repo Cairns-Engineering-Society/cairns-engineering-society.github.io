@@ -69,7 +69,7 @@ That's it. There is no server, no hosting bill, no domain to renew, and nothing 
 | `resources.md` | Directory of hard-to-find JCU links |
 | `documents.md` | Links to CES documents in `files/` |
 | `subjects/index.md` | "Pick your year" page for subjects |
-| `subjects/year-1.md` … `year-4.md` | Each subject in a dropdown, grouped by major |
+| `subjects/level-1.md` … `level-4.md` | Each subject in a dropdown, grouped by who takes it (level = first digit of the subject code) |
 
 ---
 
@@ -84,7 +84,7 @@ These were decided when the site was first built (October 2026). If you want to 
 | **Edit directly on github.com** | Future committee members don't need to install anything or learn Git. |
 | **No navigation menu**; home page has a link list and every page has "← Back to home" | A menu would need code. A list of links can't break. |
 | **Google Calendar** embedded on the home page, in **Agenda (list) view** | Committee add events in the normal Google Calendar app and the site updates instantly with no GitHub edit. Students can subscribe on their phones. Agenda view because the month grid is cramped on phones. To switch views, see [11 – Changing the calendar view](11-setup-google-calendar.md#changing-the-calendar-view). |
-| **Subjects: one page per year, each subject in a dropdown, grouped by major** | Keeps pages short and easy to scan. Each subject is written once, with a **"Taken by:"** line (e.g. the Mechanical minor uses the Mechanical core subjects, so we don't duplicate them). |
+| **Subjects: one page per level (first digit of the subject code), each subject in a dropdown, grouped by who takes it** | Levels instead of years because some higher-level subjects are taken earlier (e.g. level 3 in 2nd year). Each subject is written once, with a **"Taken by:"** line (e.g. the Mechatronics minor uses Mechanical core subjects, so we don't duplicate them). Maritime has its own group because of its move-to-Tasmania conditions. |
 | **Subject pages describe what subjects are *like*** and link to the official JCU handbook | We share student experience, not official content. Official details (prerequisites, credit points) change, and copying them would go out of date and raise copyright issues. |
 | **Events page is an overview, not a schedule.** Dates live only in the Google Calendar | One place to update dates, so the site never shows two different times for the same event. The Events page shows what CES does (regular and past events) for new students. |
 | **Google Forms** for suggestions, event ideas, subject reviews and testimonials | Students can contribute without touching GitHub. The committee reviews before anything goes live. |
@@ -107,7 +107,7 @@ When the site was first built, some details weren't known yet. They're marked wi
 | [01 – Editing a page](01-editing-a-page.md) | change any text on the site |
 | [02 – Adding an event](02-adding-an-event.md) | add an upcoming event to the calendar, record a past event, or change the regular events |
 | [03 – Uploading a file](03-uploading-a-file.md) | add a PDF or image |
-| [04 – Adding a subject](04-adding-a-subject.md) | add or update a subject description |
+| [04 – Adding a subject](04-adding-a-subject.md) | add a student review to a subject, or add a new subject |
 | [05 – Adding a testimonial](05-adding-a-testimonial.md) | add a student testimonial |
 | [06 – Adding a new page](06-adding-a-new-page.md) | create a brand new page |
 | [07 – Markdown cheat sheet](07-markdown-cheat-sheet.md) | know how to do bold, links, lists, tables… |

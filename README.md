@@ -21,7 +21,7 @@ Nothing can break permanently, because every version is saved forever.
 | Change some text on a page | [01 – Editing a page](_guides/01-editing-a-page.md) |
 | Add an event | [02 – Adding an event](_guides/02-adding-an-event.md) |
 | Upload a PDF or image | [03 – Uploading a file](_guides/03-uploading-a-file.md) |
-| Add or update a subject | [04 – Adding a subject](_guides/04-adding-a-subject.md) |
+| Add a subject review or a new subject | [04 – Adding a subject](_guides/04-adding-a-subject.md) |
 | Add a testimonial | [05 – Adding a testimonial](_guides/05-adding-a-testimonial.md) |
 | Create a whole new page | [06 – Adding a new page](_guides/06-adding-a-new-page.md) |
 | Do bold text, links, lists, tables… | [07 – Markdown cheat sheet](_guides/07-markdown-cheat-sheet.md) |

@@ -25,7 +25,7 @@ How to change any text on the website. Every other guide builds on this one, so 
    | Testimonials | `testimonials.md` |
    | Useful JCU links | `resources.md` |
    | Documents | `documents.md` |
-   | Subjects | the `subjects` folder, then `index.md` or `year-1.md` to `year-4.md` |
+   | Subjects | the `subjects` folder, then `index.md` or `level-1.md` to `level-4.md` |
 
 4. **Click the pencil icon** ✏️ ("Edit this file") near the top right of the file.
 5. **Make your changes** in the editor. The text is Markdown. See [07 – Markdown cheat sheet](07-markdown-cheat-sheet.md) for bold, links, lists, etc.
