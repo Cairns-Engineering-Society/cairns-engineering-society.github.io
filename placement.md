@@ -40,7 +40,7 @@ The official placement information is spread across several JCU documents. This 
 
 ### Step 1: Read the official requirements
 
-On LearnJCU, go to the **Organisations** tab and open **Engineering: Work Integrated Learning Including Professional Practice**. It has the official handbook, the forms you'll need, and advice on finding a placement.
+On [LearnJCU](https://www.jcu.edu.au/learn), go to the **Organisations** tab and open **Engineering: Work Integrated Learning Including Professional Practice**. It has the official handbook, the forms you'll need, and advice on finding a placement.
 
 ### Step 2: Find a placement
 
