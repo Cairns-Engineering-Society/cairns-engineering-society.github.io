@@ -16,15 +16,19 @@ CES runs social events throughout the year to help engineering students meet eac
 
 ### BBQs
 
-[PLACEHOLDER: A short description, e.g. how often they run, where, whether they're free, and who can come.]
+A social lunchtime event where CES members, other students and staff get together for a freshly cooked burger for **$5**. **CES members get a free can of soft drink** with their burger. BBQs usually run **every 2 weeks at the Boathouse**, on a set day and time that depends on the trimester timetable. Check the calendar for the next one.
 
 ### Movie and pizza nights
 
-[PLACEHOLDER: A short description, e.g. how often, where, cost, and how the movie gets picked.]
+A social evening in the **Ideas Lab foyer (D4)**. Come and chat with classmates and other students, eat **free pizza** and watch a movie on the big screen, sometimes with popcorn and lollies. The movie is picked by a vote among CES members, with suggestions from students, so keep an eye out for the poll on the [CES Discord server](https://discord.gg/rsNMRNq7uh).
+
+### Bowling and roller skating
+
+Paid social nights out, usually held one evening **after the mid-trimester break** to help everyone unwind. **Plus ones are welcome.**
 
 ### End of trimester events (Trimesters 2 and 3)
 
-[PLACEHOLDER: A short description, e.g. what usually happens, when, and whether you need to sign up or buy a ticket.]
+A paid night out to celebrate the end of the trimester, usually on the **Friday or Saturday of week 10**. Come and socialise with friends, with a few drinks and sometimes food. **Plus ones can come with a paid ticket.**
 
 ## Suggest an event
 
@@ -40,7 +44,18 @@ Is there an event you'd like CES to run? [Tell us your idea](https://forms.gle/s
 
 ### 2026
 
-- [PLACEHOLDER: **Trimester and event name**, e.g. **Trimester 2: End of trimester night**: one-line description.]
+- **Trimester 3: CES Info Night and website launch**: Senior students explained the degree structure, majors, placement and CES, followed by free pizza and a movie.
+- **Trimester 2: Pizza and Movie Night**: Movie night in the Ideas Lab, about 28 students came.
+- **Trimester 2: Bowling Night**: Bowling at Go Bowling Manunda, about 16 students came.
+- **Trimester 2: Pizza and Trivia Night**: Trivia with prizes and pizza in the Ideas Lab, about 28 students came.
+- **Trimester 2: BBQs**: Friday BBQs at the Boathouse, with around 26–40 people at each.
+
+### 2025
+
+- **Trimester 3: Skate Night**: A roller skating night out.
+- **Trimester 2: Bowling Night**: Bowling at Go Bowling Manunda, about 16 students came.
+- **Trimester 2: BBQs**: Tuesday BBQs at the Boathouse, with around 26–40 people at each.
+- **Trimester 1: Orientation**: CES met new engineering students at Orientation and ran a sign-up session.
 
 ---
 

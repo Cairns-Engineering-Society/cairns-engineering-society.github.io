@@ -37,7 +37,7 @@ The home page calendar and everyone who subscribed get the event automatically w
 
 ## Part C: Add, change or remove a regular event (Events page)
 
-The **Our regular events** section describes the events CES runs again and again (currently BBQs, movie and pizza nights, and end of trimester events in Trimesters 2 and 3).
+The **Our regular events** section describes the events CES runs again and again (currently BBQs, movie and pizza nights, bowling and roller skating, and end of trimester events in Trimesters 2 and 3).
 
 - **Change a description:** edit the text under its `###` heading, e.g. if the BBQ location changes.
 - **Add a new regular event:** copy the block from [`_templates/new-regular-event.md`](../_templates/new-regular-event.md) and paste it at the end of the section, just above `## Suggest an event`.
