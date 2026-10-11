@@ -35,7 +35,7 @@ Always put a space after the `#` symbols.
 | A website | `[JCU](https://www.jcu.edu.au/)` |
 | Another page on this site | `[Events](events.md)` |
 | A section of a page | `[Calendar](index.md#calendar)` |
-| A PDF in `files/` | `[Constitution](files/CES-Constitution-2025.pdf)` |
+| A PDF in `files/` | `[Constitution](files/CES-Constitution.pdf)` |
 | From inside `subjects/` to a main page | `[Placement](../placement.md)` |
 | An email address | `[Email CES](mailto:example@example.com)` |
 

@@ -6,7 +6,7 @@ Full step-by-step guide: [03 – Uploading a file](../_guides/03-uploading-a-fil
 ## Before you start
 
 - Only upload documents that are fine for **anyone on the internet** to read. Internal documents go in the CES Google Drive.
-- Upload the PDF into the `files/` folder **first**. Give it a name with **no spaces**, using hyphens instead, e.g. `CES-Constitution-2025.pdf`.
+- Upload the PDF into the `files/` folder **first**. Give it a name with **no spaces**, using hyphens instead, e.g. `CES-Constitution.pdf`.
 
 ## Steps
 

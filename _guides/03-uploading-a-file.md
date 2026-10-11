@@ -10,8 +10,9 @@ How to put a PDF (e.g. the constitution or minutes) or an image (e.g. the calend
 
 - **Is it OK for anyone on the internet to see?** Everything uploaded here is public. Internal documents (member lists, budgets, internal minutes) go in the **CES Google Drive** instead.
 - **Rename the file first, on your computer:**
-  - **No spaces.** Use hyphens instead: `CES-Constitution-2025.pdf`, not `CES Constitution 2025.pdf`. Spaces cause broken links.
-  - Keep it short and clear. Include the year if there will be new versions.
+  - **No spaces.** Use hyphens instead: `CES-Constitution.pdf`, not `CES Constitution 2025.pdf`. Spaces cause broken links.
+  - Keep it short and clear. For one-off documents (e.g. minutes), include the date: `CES-AGM-Minutes-2026.pdf`.
+  - For documents that get **replaced** with new versions (e.g. the constitution), **leave the year out**: `CES-Constitution.pdf`. Then you can upload a new version with the same name and every link keeps working.
 - **PDFs go in `files/`. Images go in `images/`.**
 
 ## Steps
@@ -40,7 +41,7 @@ How to put a PDF (e.g. the constitution or minutes) or an image (e.g. the calend
 ![Description of the image for people who can't see it](images/file-name.png)
 ```
 
-**Linking from a page inside `subjects/`?** Add `../` at the start, e.g. `../files/CES-Constitution-2025.pdf`.
+**Linking from a page inside `subjects/`?** Add `../` at the start, e.g. `../files/CES-Constitution.pdf`.
 
 The file name in the link must match **exactly**, including capitals and the `.pdf` / `.png` ending.
 
