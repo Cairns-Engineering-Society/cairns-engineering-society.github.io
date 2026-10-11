@@ -60,6 +60,8 @@ That's it. There is no server, no hosting bill, no domain to renew, and nothing 
 |---|---|
 | `index.md` | Home page: welcome, quick links, latest news, calendar, subscribe links |
 | `about.md` | What CES is, the committee, how to join and get involved |
+| `degree.md` | Your degree explained: structure, majors and minors, what's offered in Cairns, changing majors, block subjects |
+| `careers.md` | Careers and jobs while studying: PASS leader, mentor, ambassador, networking |
 | `events.md` | Overview of CES events: regular events (BBQs, movie and pizza nights, bowling and roller skating, end of trimester events), past events, and the event suggestion form. **Upcoming dates live in the Google Calendar, not here.** |
 | `placement.md` | Step-by-step placement guide |
 | `things-nobody-tells-you.md` | Useful hidden knowledge, grouped by topic |

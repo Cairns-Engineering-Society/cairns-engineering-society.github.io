@@ -7,9 +7,11 @@ This site puts the things engineering students need in one place, so you don't h
 ## Quick links
 
 - [About CES and how to get involved](about.md)
+- [Your degree explained: majors, minors and what you can study in Cairns](degree.md)
 - [CES events: what we run and how to suggest one](events.md)
 - [Subjects: what they're actually like](subjects/index.md)
 - [Placement: step by step](placement.md)
+- [Careers and jobs while studying](careers.md)
 - [Things nobody tells you](things-nobody-tells-you.md)
 - [Student testimonials](testimonials.md)
 - [Useful JCU links](resources.md)

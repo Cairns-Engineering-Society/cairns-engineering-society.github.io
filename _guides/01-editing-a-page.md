@@ -17,6 +17,8 @@ How to change any text on the website. Every other guide builds on this one, so 
    |---|---|
    | Home page | `index.md` |
    | About | `about.md` |
+   | Your degree explained | `degree.md` |
+   | Careers | `careers.md` |
    | Events | `events.md` |
    | Placement | `placement.md` |
    | Things nobody tells you | `things-nobody-tells-you.md` |
