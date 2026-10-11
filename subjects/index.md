@@ -22,8 +22,8 @@ What are the subjects actually like? These pages are written from **past student
 
 ## Share your experience
 
-Taken a subject? [Fill in the subject review form](PLACEHOLDER-SUBJECT-REVIEW-FORM-LINK) to help the next group of students. It takes about 5 minutes.
+Taken a subject? [Fill in the subject review form](https://forms.gle/J5Wc61eYJdNEJ3gW7) to help the next group of students. It takes about 5 minutes.
 
 ---
 
-*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](PLACEHOLDER-SUGGESTION-FORM-LINK)*
+*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](https://forms.gle/n4fg7VV2BTVFQaYu6)*

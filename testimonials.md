@@ -4,7 +4,7 @@
 
 What past and current JCU Cairns engineering students say about their degree, placement and CES.
 
-Want to share yours? [Fill in the testimonial form](PLACEHOLDER-TESTIMONIAL-FORM-LINK).
+Want to share yours? [Fill in the testimonial form](https://forms.gle/UomxoXyUfCtqANSL6).
 
 <!--
   HOW TO ADD A TESTIMONIAL: see _guides/05-adding-a-testimonial.md
@@ -18,4 +18,4 @@ Want to share yours? [Fill in the testimonial form](PLACEHOLDER-TESTIMONIAL-FORM
 
 ---
 
-*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](PLACEHOLDER-SUGGESTION-FORM-LINK)*
+*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](https://forms.gle/n4fg7VV2BTVFQaYu6)*

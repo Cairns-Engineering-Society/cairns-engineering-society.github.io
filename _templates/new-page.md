@@ -31,9 +31,7 @@ Full step-by-step guide: [06 – Adding a new page](../_guides/06-adding-a-new-p
 
 ---
 
-*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](PLACEHOLDER-SUGGESTION-FORM-LINK)*
+*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](https://forms.gle/n4fg7VV2BTVFQaYu6)*
 ```
 
 **Making the page inside the `subjects/` folder?** Change the first line to `[← Back to home](../index.md)`. The `../` means "go up one folder".
-
-**Note:** if the suggestion form link has already been set up on the other pages, copy the real footer line from the bottom of any existing page instead of the one above.

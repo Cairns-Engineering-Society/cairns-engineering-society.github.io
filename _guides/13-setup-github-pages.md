@@ -28,8 +28,8 @@ Anything not known when the site was built is marked **PLACEHOLDER**. To find th
 
 | Placeholder | What goes there | Guide |
 |---|---|---|
-| `PLACEHOLDER-CALENDAR-ID`, `PLACEHOLDER-GOOGLE-CALENDAR-SUBSCRIBE-LINK`, `PLACEHOLDER-WEBCAL-LINK` | Google Calendar embed and subscribe links | [11](11-setup-google-calendar.md) |
-| `PLACEHOLDER-SUGGESTION-FORM-LINK`, `PLACEHOLDER-SUBJECT-REVIEW-FORM-LINK`, `PLACEHOLDER-TESTIMONIAL-FORM-LINK` | Google Form links | [12](12-setup-google-forms.md) |
+| ~~Calendar embed and subscribe links~~ | ✅ Done October 2026 | [11](11-setup-google-calendar.md) |
+| ~~Google Form links~~ | ✅ Done October 2026 | [12](12-setup-google-forms.md) |
 | `PLACEHOLDER-FILE-NAME.pdf` (Documents page) | The constitution PDF | [03](03-uploading-a-file.md) |
 | `[PLACEHOLDER: ...]` text on pages | Real content: committee names, placement steps, links, etc. | [01](01-editing-a-page.md) |
 

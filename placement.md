@@ -4,7 +4,7 @@
 
 The official placement information is spread across several documents. This page lays out the whole process **in the order you need to do it**, plus the things people often miss.
 
-> **The official documents always win.** If this page disagrees with an official JCU document or your placement coordinator, follow the official advice and [let us know](PLACEHOLDER-SUGGESTION-FORM-LINK) so we can fix this page.
+> **The official documents always win.** If this page disagrees with an official JCU document or your placement coordinator, follow the official advice and [let us know](https://forms.gle/n4fg7VV2BTVFQaYu6) so we can fix this page.
 
 *Last checked: [PLACEHOLDER: date] against the official documents listed [at the bottom of this page](#official-documents).*
 
@@ -95,4 +95,4 @@ The official placement information is spread across several documents. This page
 
 ---
 
-*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](PLACEHOLDER-SUGGESTION-FORM-LINK)*
+*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](https://forms.gle/n4fg7VV2BTVFQaYu6)*

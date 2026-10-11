@@ -23,7 +23,7 @@ Use this when a whole new topic needs its own page, e.g. "Study spaces" or "Dual
 1. Open [`_templates/new-page.md`](../_templates/new-page.md) in another browser tab and copy the block.
 2. Paste it into the new file.
 3. Replace everything in `[square brackets]` and write your content. See [07 – Markdown cheat sheet](07-markdown-cheat-sheet.md).
-4. Replace the footer line at the bottom with the footer line from any existing page, so the "Suggest a change" link is right.
+4. Leave the footer line at the bottom as it is. It's the same on every page.
 5. If the page is inside `subjects/`, change the first line to `[← Back to home](../index.md)`.
 6. Click **Commit changes...** → write a message like `Add study spaces page` → **Commit changes**.
 

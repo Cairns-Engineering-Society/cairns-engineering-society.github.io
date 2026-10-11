@@ -27,4 +27,4 @@ Official Cairns Engineering Society documents. Click a document to open the PDF.
 
 ---
 
-*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](PLACEHOLDER-SUGGESTION-FORM-LINK)*
+*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](https://forms.gle/n4fg7VV2BTVFQaYu6)*

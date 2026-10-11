@@ -11,6 +11,16 @@ Three forms let students contribute **without needing GitHub**. The committee re
 **Time:** about 30 minutes for all three
 **You need:** the CES Google account login
 
+> ✅ **Already done (October 2026).** All three forms exist in the CES Google account (`cairns.engineering.society@gmail.com`) and are linked from the site:
+>
+> | Form | Link |
+> |---|---|
+> | Suggest something for the CES website | https://forms.gle/n4fg7VV2BTVFQaYu6 |
+> | Review a subject | https://forms.gle/J5Wc61eYJdNEJ3gW7 |
+> | Share your experience (testimonial) | https://forms.gle/UomxoXyUfCtqANSL6 |
+>
+> To change a question, edit the form in Google Forms. The link stays the same, so you don't need to touch the website. You only need the rest of this guide if a form has to be made again. If that happens, search the repository for the **old** link and replace it with the new one.
+
 ---
 
 ## Creating a form

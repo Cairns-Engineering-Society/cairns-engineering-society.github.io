@@ -5,6 +5,14 @@ This sets up the CES events calendar shown on the home page and the "add to your
 **Time:** about 20 minutes
 **You need:** the CES Google account login, and an editor account on GitHub
 
+> ✅ **Already done (October 2026).** The **CES Events** calendar is set up, public, and on the home page, with subscribe links and the QR code. You only need this guide if it ever has to be set up again (e.g. the calendar is deleted).
+>
+> - **Owner:** `cairns.engineering.society@gmail.com`
+> - **Calendar:** CES Events, Brisbane time
+> - **Calendar ID:** `d9d1f1f2576f01714405e7e2301d3a6141c72bc7d1812b0f5403b1379cc56b9e@group.calendar.google.com`
+> - **QR code:** `images/calendar-qr.png`. It points to the Google subscribe link. Use it on posters and slides.
+> - The account's **main** calendar is deliberately **not** public. Only put public events in **CES Events**.
+
 ---
 
 ## Part 1: Create the calendar

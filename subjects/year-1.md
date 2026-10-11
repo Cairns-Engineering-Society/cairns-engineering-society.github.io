@@ -32,6 +32,6 @@ Click a subject's name to open it. Student opinions only. Always check the offic
 
 ---
 
-Taken one of these subjects? [Share your experience](PLACEHOLDER-SUBJECT-REVIEW-FORM-LINK).
+Taken one of these subjects? [Share your experience](https://forms.gle/J5Wc61eYJdNEJ3gW7).
 
-*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](PLACEHOLDER-SUGGESTION-FORM-LINK)*
+*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](https://forms.gle/n4fg7VV2BTVFQaYu6)*

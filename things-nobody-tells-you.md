@@ -2,7 +2,7 @@
 
 # Things nobody tells you
 
-Useful things engineering students have learned the hard way. Know something that should be here? [Send it in](PLACEHOLDER-SUGGESTION-FORM-LINK).
+Useful things engineering students have learned the hard way. Know something that should be here? [Send it in](https://forms.gle/n4fg7VV2BTVFQaYu6).
 
 <!--
   HOW TO ADD A TIP: copy the format from _templates/new-tip.md and paste it
@@ -36,4 +36,4 @@ Useful things engineering students have learned the hard way. Know something tha
 
 ---
 
-*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](PLACEHOLDER-SUGGESTION-FORM-LINK)*
+*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](https://forms.gle/n4fg7VV2BTVFQaYu6)*

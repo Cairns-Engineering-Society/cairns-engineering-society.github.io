@@ -44,7 +44,7 @@ The **Cairns Engineering Society (CES)** is the student-run society for engineer
 - **Come to an event.** Everyone's welcome. See the [events page](events.md).
 - **Volunteer.** Help run an event without joining the committee. Just ask a committee member.
 - **Join the committee.** Positions are elected at the AGM each year. [PLACEHOLDER: when the AGM usually happens]
-- **Contribute to this website.** Review a subject, share a tip or [send us a suggestion](PLACEHOLDER-SUGGESTION-FORM-LINK).
+- **Contribute to this website.** Review a subject, share a tip or [send us a suggestion](https://forms.gle/n4fg7VV2BTVFQaYu6).
 
 ## Contact us
 
@@ -53,4 +53,4 @@ The **Cairns Engineering Society (CES)** is the student-run society for engineer
 
 ---
 
-*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](PLACEHOLDER-SUGGESTION-FORM-LINK)*
+*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](https://forms.gle/n4fg7VV2BTVFQaYu6)*

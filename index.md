@@ -24,42 +24,35 @@ This site puts the things engineering students need in one place, so you don't h
   Keep only the 3–5 most recent items. Delete older ones.
 -->
 
-- **October 2026**: The new CES website is live! Have something that should be on here? [Let us know](PLACEHOLDER-SUGGESTION-FORM-LINK).
+- **October 2026**: The new CES website is live! Have something that should be on here? [Let us know](https://forms.gle/n4fg7VV2BTVFQaYu6).
 
 ## Calendar
 
 All CES events are on the calendar below. Click an event for details.
 
-*Calendar coming soon.*
-
 <!--
-  CALENDAR SETUP (one time only). See _guides/11-setup-google-calendar.md
-  1. Delete the line above that says *Calendar coming soon.*
-  2. Replace the whole <iframe ...></iframe> line below with the embed code from Google Calendar.
-     Make sure it says width="100%".
-  3. Move the iframe line OUT of this comment (put it just above this comment box).
-
-<iframe src="https://calendar.google.com/calendar/embed?src=PLACEHOLDER-CALENDAR-ID&ctz=Australia%2FBrisbane" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+  This calendar shows the "CES Events" Google Calendar (owned by cairns.engineering.society@gmail.com).
+  You never need to edit the line below. To add events, add them in Google Calendar.
+  See _guides/02-adding-an-event.md
 -->
+
+<iframe src="https://calendar.google.com/calendar/embed?src=d9d1f1f2576f01714405e7e2301d3a6141c72bc7d1812b0f5403b1379cc56b9e%40group.calendar.google.com&ctz=Australia%2FBrisbane" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Add the CES calendar to your phone
 
 Subscribe once and every CES event appears in your own calendar automatically. You can't edit it, and you don't have to do anything else.
 
-- [Google Calendar / Android](PLACEHOLDER-GOOGLE-CALENDAR-SUBSCRIBE-LINK)
-- [iPhone / Outlook / other calendar apps](PLACEHOLDER-WEBCAL-LINK)
+- [Google Calendar / Android](https://calendar.google.com/calendar/u/0?cid=ZDlkMWYxZjI1NzZmMDE3MTQ0MDVlN2UyMzAxZDNhNjE0MWM3MmJjN2QxODEyYjBmNTQwM2IxMzc5Y2M1NmI5ZUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- [iPhone / Outlook / other calendar apps](webcal://calendar.google.com/calendar/ical/d9d1f1f2576f01714405e7e2301d3a6141c72bc7d1812b0f5403b1379cc56b9e%40group.calendar.google.com/public/basic.ics)
 
-<!--
-  QR CODE: once images/calendar-qr.png has been uploaded (see guide 11),
-  move the line below OUT of this comment box.
+Or scan this QR code with your phone camera:
 
-![Scan this QR code to subscribe to the CES calendar](images/calendar-qr.png)
--->
+![QR code: scan to subscribe to the CES calendar](images/calendar-qr.png)
 
 ## Help improve this site
 
-Know something that should be here, or spotted a mistake? [Send us a suggestion](PLACEHOLDER-SUGGESTION-FORM-LINK).
+Know something that should be here, or spotted a mistake? [Send us a suggestion](https://forms.gle/n4fg7VV2BTVFQaYu6).
 
 ---
 
-*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](PLACEHOLDER-SUGGESTION-FORM-LINK)*
+*Cairns Engineering Society (CES) · A student-run site, not an official JCU website · [Suggest a change](https://forms.gle/n4fg7VV2BTVFQaYu6)*

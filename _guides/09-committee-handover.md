@@ -11,7 +11,7 @@ Do it **together**: one outgoing and one incoming committee member, sitting toge
 | Account | What it controls | Who should have access |
 |---|---|---|
 | **CES GitHub account** (`cairns-engineering-society`) | Owns the website repository. Adds/removes editors and changes settings. | Login held by the President (+ one other committee member as backup) |
-| **CES Google account** | Google Calendar, Google Forms and responses, CES Google Drive | Committee |
+| **CES Google account** (`cairns.engineering.society@gmail.com`) | The "CES Events" Google Calendar, Google Forms and responses, CES Google Drive | Committee |
 | **Editors' personal GitHub accounts** | Editing the site | Whoever on the committee will update the site |
 
 **Where the logins are kept:** [PLACEHOLDER: e.g. a restricted "Logins" document in the CES Google Drive, or a password manager]. **Never in this repository.**
