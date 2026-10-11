@@ -60,7 +60,7 @@ That's it. There is no server, no hosting bill, no domain to renew, and nothing 
 |---|---|
 | `index.md` | Home page: welcome, quick links, latest news, calendar, subscribe links |
 | `about.md` | What CES is, the committee, how to join and get involved |
-| `events.md` | This trimester's events, regular events, past events |
+| `events.md` | Overview of CES events: regular events (BBQs, movie and pizza nights, end of trimester events), past events, and the event suggestion form. **Upcoming dates live in the Google Calendar, not here.** |
 | `placement.md` | Step-by-step placement guide |
 | `things-nobody-tells-you.md` | Useful hidden knowledge, grouped by topic |
 | `testimonials.md` | Past student testimonials |
@@ -84,7 +84,8 @@ These were decided when the site was first built (October 2026). If you want to 
 | **Google Calendar** embedded on the home page, in **Agenda (list) view** | Committee add events in the normal Google Calendar app and the site updates instantly with no GitHub edit. Students can subscribe on their phones. Agenda view because the month grid is cramped on phones. To switch views, see [11 – Changing the calendar view](11-setup-google-calendar.md#changing-the-calendar-view). |
 | **Subjects: one page per year, each subject in a dropdown, grouped by major** | Keeps pages short and easy to scan. Each subject is written once, with a **"Taken by:"** line (e.g. the Mechanical minor uses the Mechanical core subjects, so we don't duplicate them). |
 | **Subject pages describe what subjects are *like*** and link to the official JCU handbook | We share student experience, not official content. Official details (prerequisites, credit points) change, and copying them would go out of date and raise copyright issues. |
-| **Google Forms** for suggestions, subject reviews and testimonials | Students can contribute without touching GitHub. The committee reviews before anything goes live. |
+| **Events page is an overview, not a schedule.** Dates live only in the Google Calendar | One place to update dates, so the site never shows two different times for the same event. The Events page shows what CES does (regular and past events) for new students. |
+| **Google Forms** for suggestions, event ideas, subject reviews and testimonials | Students can contribute without touching GitHub. The committee reviews before anything goes live. |
 | **Repository owned by the CES GitHub account; committee members use their own accounts as "collaborators"** | The site survives committee turnover. Everyone's edits are tracked under their own name. No shared password juggling. |
 | **Private material in CES Google Drive, never here** | This repository is public. |
 | **Templates and guides in `_` folders in the same repository** | New editors find the guides right next to the files they're editing. |
@@ -102,7 +103,7 @@ When the site was first built, some details weren't known yet. They're marked wi
 | Guide | Use it when you want to… |
 |---|---|
 | [01 – Editing a page](01-editing-a-page.md) | change any text on the site |
-| [02 – Adding an event](02-adding-an-event.md) | add an event to the calendar and/or events page |
+| [02 – Adding an event](02-adding-an-event.md) | add an upcoming event to the calendar, record a past event, or change the regular events |
 | [03 – Uploading a file](03-uploading-a-file.md) | add a PDF or image |
 | [04 – Adding a subject](04-adding-a-subject.md) | add or update a subject description |
 | [05 – Adding a testimonial](05-adding-a-testimonial.md) | add a student testimonial |

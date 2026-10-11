@@ -7,7 +7,7 @@ This site puts the things engineering students need in one place, so you don't h
 ## Quick links
 
 - [About CES and how to get involved](about.md)
-- [Events this trimester](events.md)
+- [CES events: what we run and how to suggest one](events.md)
 - [Subjects: what they're actually like](subjects/index.md)
 - [Placement: step by step](placement.md)
 - [Things nobody tells you](things-nobody-tells-you.md)
@@ -20,7 +20,7 @@ This site puts the things engineering students need in one place, so you don't h
 <!--
   HOW TO ADD NEWS:
   Copy the line below, paste it at the TOP of the list, and change the date and text.
-  - **[Date, e.g. 10 Oct 2026]**: [What's new, e.g. "Trimester 3 BBQ dates are out! See the [events page](events.md)."]
+  - **[Date, e.g. 10 Oct 2026]**: [What's new, e.g. "Trimester 3 BBQ dates are out! See the [calendar](#calendar)."]
   Keep only the 3–5 most recent items. Delete older ones.
 -->
 

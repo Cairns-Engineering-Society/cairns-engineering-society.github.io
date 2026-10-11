@@ -1,23 +1,25 @@
 # 12 – Setting up Google Forms (one time only)
 
-Three forms let students contribute **without needing GitHub**. The committee reviews responses and copies the good ones onto the site.
+Four forms let students contribute **without needing GitHub**. The committee reviews responses and copies the good ones onto the site.
 
 | Form | Linked from | Replaces this placeholder |
 |---|---|---|
 | **Suggestions** | Every page footer, home page, About page | `PLACEHOLDER-SUGGESTION-FORM-LINK` |
 | **Subject review** | Subject pages | `PLACEHOLDER-SUBJECT-REVIEW-FORM-LINK` |
 | **Testimonial** | Testimonials page | `PLACEHOLDER-TESTIMONIAL-FORM-LINK` |
+| **Event suggestions** | Events page | `PLACEHOLDER-EVENT-SUGGESTION-FORM-LINK` |
 
-**Time:** about 30 minutes for all three
+**Time:** about 10 minutes per form
 **You need:** the CES Google account login
 
-> ✅ **Already done (October 2026).** All three forms exist in the CES Google account (`cairns.engineering.society@gmail.com`) and are linked from the site:
+> ✅ **Three forms done (October 2026).** These exist in the CES Google account (`cairns.engineering.society@gmail.com`) and are linked from the site:
 >
 > | Form | Link |
 > |---|---|
 > | Suggest something for the CES website | https://forms.gle/n4fg7VV2BTVFQaYu6 |
 > | Review a subject | https://forms.gle/J5Wc61eYJdNEJ3gW7 |
 > | Share your experience (testimonial) | https://forms.gle/UomxoXyUfCtqANSL6 |
+> | Suggest an event | ⏳ **Not created yet.** See [Form 4](#form-4-event-suggestions) below |
 >
 > To change a question, edit the form in Google Forms. The link stays the same, so you don't need to touch the website. You only need the rest of this guide if a form has to be made again. If that happens, search the repository for the **old** link and replace it with the new one.
 
@@ -75,6 +77,20 @@ Description: *Tell future students about your engineering degree, placement or C
 | How should we credit you? | Multiple choice: "First name" / "Anonymous" | ✅ |
 | First name (only if you chose "First name") | Short answer | |
 | I agree that CES may publish this on the public CES website. | Checkboxes (one box) | ✅ |
+
+## Form 4: Event suggestions
+
+Title: **Suggest an event**
+Description: *Is there an event you'd like CES to run? Tell us your idea. The committee reads every suggestion when planning each trimester.*
+
+| Question | Type | Required? |
+|---|---|---|
+| What event would you like CES to run? | Paragraph | ✅ |
+| What type of event is it? | Multiple choice: Social / Industry or careers / Study or academic / Other | ✅ |
+| When would suit you best? | Checkboxes: Weekday daytime / Weekday evening / Weekend | |
+| Roughly how much would you pay to attend? | Multiple choice: Only if it's free / Up to $5 / Up to $10 / Up to $20 / More than $20 | |
+| Would you be keen to help organise it? | Multiple choice: Yes / Maybe / No | |
+| If yes or maybe, how can we contact you? | Short answer | |
 
 ## Put the links on the site
 

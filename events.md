@@ -1,40 +1,46 @@
 [← Back to home](index.md)
 
-# Events
+# CES events
 
-All event dates are also on the [calendar on the home page](index.md#calendar), which you can add to your phone.
+CES runs social events throughout the year to help engineering students meet each other, take a break and have some fun. This page explains what we usually run and what we've done before.
 
-## This trimester: [PLACEHOLDER: e.g. Trimester 3, 2026]
+**Looking for dates?** Upcoming events are on the [calendar on the home page](index.md#calendar), which you can add to your phone.
+
+## Our regular events
 
 <!--
-  HOW TO ADD AN EVENT: see _guides/02-adding-an-event.md
-  Short version:
-  1. Copy the row template from _templates/new-event.md
-  2. Paste it as a new line under the last row of the table below, keeping events in date order
-  3. Replace everything in [square brackets]
-  4. Also add the event to the CES Google Calendar so it shows on the home page
-
-  Don't leave a blank line between rows, or the table will break.
+  HOW TO EDIT: change the descriptions below to match what CES actually runs.
+  To add a new regular event, copy the block from _templates/new-regular-event.md
+  and paste it at the end of this section. To retire one, delete its block.
 -->
 
-| Date | Time | Event | Where | More info / sign up |
-|---|---|---|---|---|
-| [PLACEHOLDER: e.g. Fri 17 Oct] | [e.g. 12–2pm] | [e.g. Welcome BBQ] | [e.g. Outside building A1] | [e.g. No sign-up needed] |
+### BBQs
 
-## Regular events
+[PLACEHOLDER: A short description, e.g. how often they run, where, whether they're free, and who can come.]
 
-<!-- Events that happen every week, month or trimester. Delete this section if there are none. -->
+### Movie and pizza nights
 
-- [PLACEHOLDER: e.g. **Study sessions**: every Wednesday 4–6pm, Library level 2]
+[PLACEHOLDER: A short description, e.g. how often, where, cost, and how the movie gets picked.]
+
+### End of trimester events (Trimesters 2 and 3)
+
+[PLACEHOLDER: A short description, e.g. what usually happens, when, and whether you need to sign up or buy a ticket.]
+
+## Suggest an event
+
+Is there an event you'd like CES to run? [Tell us your idea](PLACEHOLDER-EVENT-SUGGESTION-FORM-LINK). We read every suggestion.
 
 ## Past events
 
 <!--
-  At the end of each trimester, cut the rows from the table above and paste them here
-  under a new heading for that trimester. This keeps a record of what CES has run.
+  HOW TO ADD A PAST EVENT: see _guides/02-adding-an-event.md
+  Copy the line from _templates/new-past-event.md and paste it under the right year
+  (newest at the top). Start a new year with a heading like ### 2027 above the others.
 -->
 
-*No past events recorded yet.*
+### 2026
+
+- [PLACEHOLDER: **Trimester and event name**, e.g. **Trimester 2: End of trimester night**: one-line description.]
 
 ---
 

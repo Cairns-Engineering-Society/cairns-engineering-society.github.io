@@ -35,12 +35,14 @@ Do it **together**: one outgoing and one incoming committee member, sitting toge
 
 - [ ] Change the CES Google account password if it was shared with outgoing members.
 - [ ] **Calendar:** check who has "Make changes to events" on the CES calendar (calendar settings → **Shared with**). Add new members and remove old ones.
-- [ ] **Forms:** check the subject review, testimonial and suggestion forms are still open and responses are going to the CES account.
+- [ ] **Forms:** check the suggestion, event suggestion, subject review and testimonial forms are still open and responses are going to the CES account.
 
 ### Website content
 
 - [ ] Update the committee table on the **About** page (`about.md`).
 - [ ] Update the **contact details** on the About page if they changed.
+- [ ] Check **Past events** on the Events page (`events.md`) is up to date, and that the **regular events** descriptions still match what CES runs.
+- [ ] Look through the **event suggestions** form responses with the new committee.
 - [ ] Upload the AGM minutes to the **Documents** page if they're public (see [03 – Uploading a file](03-uploading-a-file.md)).
 - [ ] Update the **constitution** PDF if it changed.
 - [ ] Skim each page for anything out of date (old dates, past committee names, broken links).

@@ -1,53 +1,56 @@
 # 02 – Adding an event
 
-Events appear in **two places**, and you should update both:
+Events live in two places, and each has a different job:
 
-1. **The CES Google Calendar.** This shows on the home page calendar and on the phones of everyone who subscribed. It updates instantly, and you don't need GitHub at all.
-2. **The events table on the Events page** (`events.md`). This is a simple list with details and sign-up links.
+| Where | What goes there | When |
+|---|---|---|
+| **The CES Google Calendar** (shown on the home page) | **Upcoming** events with dates, times, places and sign-up links | **Before** the event |
+| **The Events page** (`events.md`) | An overview of what CES does: **regular events** and a record of **past events** | **After** the event, or when CES starts or stops a regular event |
 
-**Time:** about 5 minutes
+The Events page deliberately doesn't list upcoming dates. Keeping dates only in the calendar means there's one place to update, and the site can't show two different times for the same event.
 
 ---
 
-## Part A: Add it to the Google Calendar
+## Part A: Add an upcoming event (Google Calendar only)
 
-1. Sign in to [calendar.google.com](https://calendar.google.com) with the **CES Google account** (or your own account if the CES calendar has been shared with you with "Make changes to events" permission).
+**Time:** about 2 minutes. No GitHub needed.
+
+1. Sign in to [calendar.google.com](https://calendar.google.com) with the **CES Google account** (`cairns.engineering.society@gmail.com`), or your own account if the CES Events calendar has been shared with you with "Make changes to events" permission.
 2. Click the date of the event, then **More options**.
-3. Fill in the **title**, **time** and **location**. In the description, add any details and the sign-up link.
-4. **Important:** check the calendar drop-down (near the bottom, usually shows a coloured dot and a calendar name) is set to the **CES events calendar**, NOT a personal calendar. Otherwise it won't appear on the website.
+3. Fill in the **title**, **time** and **location**. In the description, add details such as cost, what to bring and the sign-up link.
+4. **Important:** check the calendar drop-down (near the bottom, usually shows a coloured dot and a calendar name) is set to **CES Events**, NOT the account's main calendar. Otherwise it won't appear on the website.
 5. Click **Save**.
 
-The home page calendar updates by itself within a few minutes. You don't need to touch GitHub for this part.
+The home page calendar and everyone who subscribed get the event automatically within a few minutes.
 
-## Part B: Add it to the Events page
+**Changing or cancelling:** open the event in Google Calendar and edit or delete it. If you cancel, consider renaming it `CANCELLED – [event name]` for a day or two before deleting it, so people who saw it know.
 
-1. Open [`_templates/new-event.md`](../_templates/new-event.md) and copy the template line.
+## Part B: Record a past event (Events page)
+
+**Time:** about 3 minutes. Do this after the event, or once at the end of each trimester for all of that trimester's events.
+
+1. Open [`_templates/new-past-event.md`](../_templates/new-past-event.md) and copy the template line.
 2. Open `events.md` and click the pencil icon ✏️ (see [01 – Editing a page](01-editing-a-page.md)).
-3. Paste the line on a new line **directly under the last row** of the "This trimester" table. **No blank line in between**, or the table breaks.
-4. Replace each `[...]` with the event details.
-5. If this is the first real event of the trimester, delete the example/placeholder row.
-6. Click **Commit changes...**, write a message like `Add Welcome BBQ to events`, and click **Commit changes**.
+3. Scroll to **Past events** and find the heading for this year (e.g. `### 2026`). If there isn't one, add it **above** the older years, with a blank line before and after.
+4. Paste the line **directly under the year heading** (newest at the top) and replace the `[...]` parts.
+5. Click **Commit changes...**, write a message like `Add T3 movie night to past events`, and click **Commit changes**.
+
+## Part C: Add, change or remove a regular event (Events page)
+
+The **Our regular events** section describes the events CES runs again and again (currently BBQs, movie and pizza nights, and end of trimester events in Trimesters 2 and 3).
+
+- **Change a description:** edit the text under its `###` heading, e.g. if the BBQ location changes.
+- **Add a new regular event:** copy the block from [`_templates/new-regular-event.md`](../_templates/new-regular-event.md) and paste it at the end of the section, just above `## Suggest an event`.
+- **Remove one CES no longer runs:** delete its `###` heading and description.
+
+Then commit as usual.
 
 ## Check it worked
 
-After 1–2 minutes, open the live Events page. Check the new row looks right and lines up with the other rows.
-
-**Row looks broken** (e.g. it shows as plain text with `|` characters)? Usually one of these:
-- There's a blank line between your row and the row above it. Delete it.
-- The row has the wrong number of `|` characters. Every row needs 6.
+After 1–2 minutes, open the live Events page and check your change. Headings should appear as headings, and past events as bullet points.
 
 ---
 
-## At the start of each trimester
+## Event suggestions from students
 
-1. Change the heading `## This trimester: ...` to the new trimester, e.g. `## This trimester: Trimester 1, 2027`.
-2. Move last trimester's rows into **Past events**:
-   - Under "Past events", add a heading like `### Trimester 3, 2026`.
-   - Under it, paste the table header lines (`| Date | Time | Event | Where | More info / sign up |` and `|---|---|---|---|---|`) and then the old rows.
-   - Delete the `*No past events recorded yet.*` line if it's there.
-3. Leave the header lines (the first two lines) of the "This trimester" table in place and add the new events under them.
-
-## Changing or cancelling an event
-
-- **Google Calendar:** open the event and edit or delete it.
-- **Events page:** edit the row. For a cancelled event, you can write `~~Event name~~ CANCELLED` to put a line through it.
+The **Suggest an event** link on the Events page goes to the **event suggestions Google Form**. Responses go to a Google Sheet in the CES Google account. Look through it at committee meetings when planning the next trimester. See [12 – Setting up Google Forms](12-setup-google-forms.md).
