@@ -23,6 +23,7 @@ The links engineering students actually need, grouped so you don't have to searc
 ## Enrolment and admin
 
 - [Enrolment](https://www.jcu.edu.au/students/enrolment): enrolling, changing subjects and course planning
+- [Engineering staff list](https://www.jcu.edu.au/college-of-science-and-engineering/meet-our-academic-teams/engineering-staff): find lecturers and the **Course Adviser, Bachelor of Engineering**
 - **Changing your major or degree?** Talk to the course coordinator first, then email [enrolments@jcu.edu.au](mailto:enrolments@jcu.edu.au). See [Your degree explained](degree.md#changing-your-major-or-campus).
 - [Assessment and results](https://www.jcu.edu.au/students/assessment-and-results): exams, results and assessment rules
 - [Exam timetables](https://www.jcu.edu.au/students/assessment-and-results/formal-examinations): formal exam dates and rules

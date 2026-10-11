@@ -135,7 +135,9 @@ The **Mechatronics minor** is popular with Electrical and IoT students. It's mos
 
 Changing your mind is normal. Plenty of students switch majors, and some switch more than once. Do what interests you, and talk to your lecturers to check you're making a sound decision.
 
-1. **Get permission from the course coordinator first.** They approve changes to your major, campus or degree structure. [PLACEHOLDER: how students find the course coordinator's contact details]
+1. **Get permission from the course coordinator first.** They approve changes to your major, campus or degree structure.
+   - **Finding them:** go to the [JCU engineering staff list](https://www.jcu.edu.au/college-of-science-and-engineering/meet-our-academic-teams/engineering-staff) and look for the person with the title **Course Adviser, Bachelor of Engineering** (listed under the CSE Course and Major Advisors).
+   - **Not sure?** Ask any of your Cairns engineering lecturers. They can tell you who to get in touch with.
 2. **Then email the enrolments team** at [enrolments@jcu.edu.au](mailto:enrolments@jcu.edu.au). They make the change in the system.
 
 ## Study load and block subjects

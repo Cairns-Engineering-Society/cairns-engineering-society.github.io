@@ -12,9 +12,10 @@ Do it **together**: one outgoing and one incoming committee member, sitting toge
 |---|---|---|
 | **CES GitHub account** (`cairns-engineering-society`) | Owns the website repository. Adds/removes editors and changes settings. | Login held by the President (+ one other committee member as backup) |
 | **CES Google account** (`cairns.engineering.society@gmail.com`) | The "CES Events" Google Calendar, Google Forms and responses, CES Google Drive | Committee |
+| **CES Bitwarden account** | Stores all the CES logins and recovery codes | Executive |
 | **Editors' personal GitHub accounts** | Editing the site | Whoever on the committee will update the site |
 
-**Where the logins are kept:** [PLACEHOLDER: e.g. a restricted "Logins" document in the CES Google Drive, or a password manager]. **Never in this repository.**
+**Where the logins are kept:** the **CES Bitwarden account**. This includes the CES GitHub account, the CES Google account and the GitHub 2FA recovery codes. **Never put logins in this repository.**
 
 ---
 
@@ -26,14 +27,15 @@ Do it **together**: one outgoing and one incoming committee member, sitting toge
 - [ ] Add them as editors. See [10 – Adding or removing an editor](10-adding-or-removing-an-editor.md).
 - [ ] **Remove** outgoing members who no longer need access (same guide).
 - [ ] Hand over the **CES GitHub account login** to the new President (or whoever will hold it):
-  - [ ] Change the password and store the new one in the logins location above.
+  - [ ] Change the password and store the new one in the CES Bitwarden account.
   - [ ] **Two-factor authentication (2FA):** GitHub requires a code from an authenticator app when you sign in. Move the 2FA to the new holder's phone: sign in as CES → profile picture → **Settings** → **Password and authentication** → set up the authenticator app again on the new phone.
-  - [ ] Check the **recovery codes** are saved in the logins location. Without these, a lost phone can mean losing the account forever. Regenerate them on the same settings page if unsure.
+  - [ ] Check the **recovery codes** are saved in the CES Bitwarden account. Without these, a lost phone can mean losing the account forever. Regenerate them on the same settings page if unsure.
   - [ ] Check the email address on the CES GitHub account is the **CES email**, not a personal one.
 
 ### Google
 
-- [ ] Change the CES Google account password if it was shared with outgoing members.
+- [ ] Change the CES Google account password if it was shared with outgoing members, and update it in Bitwarden.
+- [ ] **Bitwarden:** give the incoming committee access to the CES Bitwarden account, and remove outgoing members.
 - [ ] **Calendar:** check who has "Make changes to events" on the CES calendar (calendar settings → **Shared with**). Add new members and remove old ones.
 - [ ] **Forms:** check the suggestion, event suggestion, subject review and testimonial forms are still open and responses are going to the CES account.
 
