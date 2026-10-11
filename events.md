@@ -28,7 +28,7 @@ CES runs social events throughout the year to help engineering students meet eac
 
 ## Suggest an event
 
-Is there an event you'd like CES to run? [Tell us your idea](PLACEHOLDER-EVENT-SUGGESTION-FORM-LINK). We read every suggestion.
+Is there an event you'd like CES to run? [Tell us your idea](https://forms.gle/sGoZM1dob3ePv7Xd8). We read every suggestion.
 
 ## Past events
 
