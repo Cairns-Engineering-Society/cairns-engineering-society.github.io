@@ -17,7 +17,7 @@ Useful things engineering students have learned the hard way. Know something tha
 ## Enrolment and study load
 
 - **What's a full-time load?** 8 subjects a year is the normal full-time load for the engineering degree. See [study load and block subjects](degree.md#study-load-and-block-subjects).
-- **Block subjects are intense.** They squeeze a whole subject into about 6 weeks. It's best not to take more than two at a time.
+- **Block subjects are intense.** They squeeze a whole subject into about 6–7 weeks. It's best not to take more than two at a time.
 - **Some subjects only run once a year.** If you fail one, you may have to wait a whole year to retake it, which can add time to your degree. Use that gap to get ahead on electives or minor subjects, and talk to the course coordinator about re-planning.
 - **You can change your major.** Plenty of students do, some more than once. Talk to the course coordinator first. See [changing your major or campus](degree.md#changing-your-major-or-campus).
 

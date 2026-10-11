@@ -146,7 +146,7 @@ These are the Level 2 core subjects for both Mechanical and Maritime. Most of th
 
 ## Maritime
 
-⚠️ **Maritime has extra conditions.** Only the first two years are in Cairns. For 3rd and 4th year you move to the Australian Maritime College (University of Tasmania) in Launceston. As well as the Mechanical and Maritime subjects above, Maritime students take two subjects **online through the Australian Maritime College** while in Cairns. See [Your degree explained](../degree.md#maritime-engineering).
+⚠️ **Maritime has extra conditions.** Only the first two years are in Cairns. For 3rd and 4th year you move to the Australian Maritime College (University of Tasmania) in Launceston. As well as the Mechanical and Maritime subjects above, Maritime students take two subjects **online through the Australian Maritime College** in 2nd year while in Cairns. These take the place of a minor, so **Maritime students can't take a minor**. Maritime is only available for Trimester 1 intake. See [Your degree explained](../degree.md#maritime-engineering).
 
 <details markdown="1">
 <summary><b>JEE225 – Hydrostatics</b></summary>

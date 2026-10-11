@@ -16,7 +16,7 @@ CES runs social events throughout the year to help engineering students meet eac
 
 ### BBQs
 
-A social lunchtime event where CES members, other students and staff get together for a freshly cooked burger for **$5**. **CES members get a free can of soft drink** with their burger. BBQs usually run **every 2 weeks at the Boathouse**, on a set day and time that depends on the trimester timetable. Check the calendar for the next one.
+A social event, usually at lunchtime, where CES members, other students and staff get together for a freshly cooked burger for **$5**. Soft drinks are **$2 a can**, and **CES members get a free can of soft drink** with their burger. BBQs usually run **every 2 weeks at the Boathouse**. The day and time change each trimester to fit the timetable, so check the [calendar](index.md#calendar) for the next one.
 
 ### Movie and pizza nights
 
@@ -44,7 +44,6 @@ Is there an event you'd like CES to run? [Tell us your idea](https://forms.gle/s
 
 ### 2026
 
-- **Trimester 3: CES Info Night and website launch**: Senior students explained the degree structure, majors, placement and CES, followed by free pizza and a movie.
 - **Trimester 2: Pizza and Movie Night**: Movie night in the Ideas Lab, about 28 students came.
 - **Trimester 2: Bowling Night**: Bowling at Go Bowling Manunda, about 16 students came.
 - **Trimester 2: Pizza and Trivia Night**: Trivia with prizes and pizza in the Ideas Lab, about 28 students came.

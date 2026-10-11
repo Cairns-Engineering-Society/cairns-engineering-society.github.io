@@ -197,7 +197,7 @@ Assuming a standard 4-year degree:
 | **Year 3** | Aim to have an internship by now. Most companies look for students in third year or above. |
 | **Year 4** | Finish your placement and paperwork so it's done before you graduate. |
 
-**Summer is your best chance.** In 3rd and 4th year, your first subjects of the year are block subjects that start in Block 2. In 2027 that's 30 March, compared with 15 February for trimester subjects. That leaves a longer break for placement over summer after 2nd and 3rd year.
+**Summer is your best chance.** In 3rd and 4th year, your first subjects of the year are block subjects that start in Block 2. In 2027, Block 2 starts on 15 March, compared with 15 February for Trimester 1. That leaves a longer break for placement over summer after 2nd and 3rd year.
 
 **It's never too early to start building your network.** Struggling to find a placement as you get close to your final year? Talk to the Student Placements Team early. Don't wait.
 

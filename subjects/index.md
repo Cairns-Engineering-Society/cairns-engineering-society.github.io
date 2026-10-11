@@ -21,7 +21,7 @@ What are the subjects actually like? These pages are written from **past student
 - **Subjects are grouped by who takes them:** Core (all majors), Electrical and IoT, Electrical only, IoT only, Mechanical, Maritime, and so on. Each subject is listed **once**.
 - **The "Taken by:" line** shows every major and minor that includes the subject. For example, the **Mechatronics minor** (popular with Electrical and IoT students) mostly uses Mechanical core subjects, so those subjects say "Mechatronics minor" on their Taken by line.
 - **"When"** shows the study period the subject runs in Cairns, from the 2027 handbook.
-- **Maritime** has its own group because of extra conditions: only the first two years are in Cairns, then you move to Tasmania.
+- **Maritime** has its own group because of extra conditions: only the first two years are in Cairns, then you move to Tasmania, and Maritime students can't take a minor.
 - **Other minors** (Data Science, Infrastructure and Environment, Mathematics, Software) and **double degrees** aren't covered yet. See the handbook pages for the [Data Science](https://handbook.jcu.edu.au/aos/2027/BENDSCMIN), [Infrastructure and Environment](https://handbook.jcu.edu.au/aos/2027/BENIPLMIN), [Mathematics](https://handbook.jcu.edu.au/aos/2027/BENMATMIN), [Mechatronics](https://handbook.jcu.edu.au/aos/2027/BENMCHMIN) and [Software](https://handbook.jcu.edu.au/aos/2027/BENSOFMIN) minors.
 
 ## Share your experience

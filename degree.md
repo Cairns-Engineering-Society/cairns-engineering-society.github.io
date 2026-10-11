@@ -4,11 +4,11 @@
 
 How the JCU Bachelor of Engineering (Honours) is put together, what you can study in Cairns, and what each major is actually like. Written by senior students.
 
-> **Check the official handbook before making decisions.** Course rules change. This page is based on the [2027 JCU handbook](https://handbook.jcu.edu.au/course/2027/116209) and was last checked in **October 2026**. Your course coordinator has the final say (see [Changing your major or campus](#changing-your-major-or-campus)).
+> **Check the official handbook before making decisions.** Course rules change. This page is based on the [2027 JCU handbook](https://handbook.jcu.edu.au/course/2027/116209) and was last checked in **October 2026**. It only covers what you can study **in Cairns**. Your course coordinator has the final say (see [Changing your major or campus](#changing-your-major-or-campus)).
 
 <!--
   EDITORS: update this page each year when the new JCU handbook comes out (usually late in the year).
-  Check: majors and minors offered in Cairns, Townsville-only subjects, block dates, and the handbook links (change 2027 to the new year).
+  Check: majors and minors offered in Cairns, Townsville residentials, block dates, and the handbook links (change 2027 to the new year).
 -->
 
 ## Contents
@@ -17,7 +17,6 @@ How the JCU Bachelor of Engineering (Honours) is put together, what you can stud
 - [Majors, minors and electives](#majors-minors-and-electives)
 - [What you can study in Cairns](#what-you-can-study-in-cairns)
 - [The Cairns majors](#the-cairns-majors)
-- [Majors only offered in Townsville](#majors-only-offered-in-townsville)
 - [Changing your major or campus](#changing-your-major-or-campus)
 - [Study load and block subjects](#study-load-and-block-subjects)
 
@@ -28,7 +27,7 @@ How the JCU Bachelor of Engineering (Honours) is put together, what you can stud
 | **Degree** | BEng (Honours) | BEng (Honours) + Bachelor of Science **or** Bachelor of Information Technology |
 | **Length (minimum)** | 4 years | 5 years |
 | **Subjects** | 32 subjects (96 credit points) | 40 subjects (120 credit points) |
-| **What you choose** | 1 major + 1 minor (or 4 electives) | 1 engineering major + 1 major from the other degree (no minor) |
+| **What you choose** | 1 major + 1 minor (or 12 credit points of any undergraduate subjects) | 1 engineering major + 1 major from the other degree (no minor) |
 
 Both include an **Honours thesis** in final year and **60 days of work placement** (see the [placement guide](placement.md)). The engineering degree is **accredited by Engineers Australia**.
 
@@ -47,37 +46,27 @@ In a double degree, years 2–5 mix engineering subjects with subjects from your
 
 - **Major:** the engineering discipline you study, e.g. Electrical. It appears on your testamur (degree certificate).
 - **Minor:** 4 subjects focused on another area, e.g. Software. Only available in the single degree. It doesn't appear on your testamur.
-- **Electives:** instead of a minor, you can pick any 4 subjects at **level 2 or higher**. Level is the first digit of the subject code: EG2008 is level 2, MA3405 is level 3.
+- **Electives:** instead of a minor, you can pick **12 credit points (4 subjects) of any undergraduate subjects**.
+- **Maritime students can't take a minor.** They use those 12 credit points for the two Maritime subjects studied online with the Australian Maritime College in 2nd year (see [Maritime Engineering](#maritime-engineering)).
 
 ## What you can study in Cairns
 
-**Engineering majors:**
+**Engineering majors in Cairns (2027):**
 
-| Major | Cairns | Townsville |
-|---|---|---|
-| Electrical and Electronic | ✅ | ✅ |
-| Electronic Systems and Internet of Things (IoT) | ✅ | |
-| Mechanical | ✅ from 2027 (some subjects in Townsville) | ✅ |
-| Maritime | ✅ first 2 years only, then Tasmania | |
-| Civil | | ✅ |
-| Chemical | | ✅ |
+| Major | Conditions |
+|---|---|
+| Electrical and Electronic | All 4 years in Cairns |
+| Electronic Systems and Internet of Things (IoT) | All 4 years in Cairns |
+| Mechanical | **New in Cairns from 2027.** Three subjects in 3rd and 4th year need you to attend the Townsville campus (residentials) |
+| Maritime | **First 2 years only** in Cairns, then you move to Launceston, Tasmania. Trimester 1 intake only, and no minor |
 
-**Engineering minors:**
+Civil and Chemical engineering are only taught in Townsville from 2nd year onwards, so they aren't covered here. See the [JCU handbook](https://handbook.jcu.edu.au/course/2027/116209) if you're thinking about moving campus.
 
-| Minor | Cairns | Townsville |
-|---|---|---|
-| Data Science | ✅ | ✅ |
-| Infrastructure and Environment | ✅ | ✅ |
-| Mathematics | ✅ | ✅ |
-| Mechatronics | ✅ | ✅ |
-| Software | ✅ | ✅ |
-| Mining and Minerals | | ✅ |
-| Physics | Possibly from 2027 (to be confirmed) | ✅ |
-| Sustainability | | ✅ |
+**Engineering minors in Cairns (2027):** Data Science, Infrastructure and Environment, Mathematics, **Mechatronics** and Software.
 
 The **Mechatronics minor** is popular with Electrical and IoT students. It's mostly made up of Mechanical core subjects. See the [subjects pages](subjects/index.md).
 
-**Double degree (Bachelor of Science) majors available in Cairns:** Data Science, Environmental Earth Science, and Zoology and Ecology. All the others (Aquaculture Science and Technology, Bioinformatics, Chemistry, Geology, Marine Biology, Mathematics, Molecular and Cell Biology, Physics) are Townsville only. Check the handbook for the current list.
+**Double degree (Bachelor of Science) majors in Cairns:** Data Science, Environmental Earth Science, and Zoology and Ecology. Check the handbook for the current list.
 
 ## The Cairns majors
 
@@ -132,7 +121,7 @@ The **Mechatronics minor** is popular with Electrical and IoT students. It's mos
 - **⚠️ Only the first 2 years are in Cairns.** For 3rd and 4th year you transfer to the **Australian Maritime College (University of Tasmania) in Launceston** to finish a Bachelor of Maritime Engineering (Honours), specialising in either:
   - **Naval Architecture:** designing everything from submarines and naval ships to yachts, ferries and cargo vessels.
   - **Ocean Engineering:** offshore, subsea and coastal structures, wave mechanics, underwater technology and offshore renewable energy.
-- You'll also study two subjects online with the Australian Maritime College while in Cairns (JEE225 Hydrostatics and JEE246 Introduction to Maritime Science, Engineering and Technology).
+- In **2nd year** you also study two subjects **online** with the Australian Maritime College while still in Cairns: JEE225 Hydrostatics and JEE246 Introduction to Maritime Science, Engineering and Technology. These take the place of a minor, so **Maritime students can't take a minor**.
 - **Only available for Trimester 1 intake.** Discuss your study plan with the course coordinator in 1st year.
 - **Changed your mind about moving?** If you complete the first two years and don't want to go to Tasmania, you can transfer into the **Mechanical** major. Talk to the course coordinator.
 
@@ -141,22 +130,6 @@ The **Mechatronics minor** is popular with Electrical and IoT students. It's mos
 **What you might do:** hydraulic modelling, structural analysis and stability calculations, vessel design, and supervising testing and construction.
 
 [Official handbook page](https://handbook.jcu.edu.au/aos/2027/BEHMTE) · [UTAS Maritime Engineering](https://www.utas.edu.au/study/undergraduate/maritime-engineering)
-
-## Majors only offered in Townsville
-
-From 2nd year, these are only taught in Townsville, but there are plenty of jobs for them around Cairns.
-
-### Civil Engineering
-
-**You might like it if you enjoyed:** EG1011 Statics and Dynamics and EG1000 Engineering 1.
-
-Design, build and maintain the infrastructure society runs on: structural, geotechnical, hydraulic, transport and environmental engineering. **Careers around Cairns:** structural, geotechnical and water resources engineering (e.g. Cairns Regional Council). [Handbook page](https://handbook.jcu.edu.au/aos/2027/BEHCVL)
-
-### Chemical Engineering
-
-**You might like it if you enjoyed:** EG1010 Process Engineering and PH1005 Newtonian Physics.
-
-Use chemistry, maths and physics to design and run processes that produce things on a large scale. A chemist might develop a substance in a lab, and a chemical engineer works out how to produce it reliably at industrial scale. **Careers around Cairns:** water and environmental processing (e.g. Cairns Regional Council), waste treatment, and manufacturing (food, beverages, distilleries, pharmaceuticals). [Handbook page](https://handbook.jcu.edu.au/aos/2027/BEHCEM)
 
 ## Changing your major or campus
 
@@ -168,8 +141,8 @@ Changing your mind is normal. Plenty of students switch majors, and some switch 
 ## Study load and block subjects
 
 - **Full-time load:** 8 subjects a year is the normal full-time load.
-- **Block subjects** are compressed into about **6 weeks** instead of a full trimester. It's best to do **no more than two block subjects at a time**.
-- **In 3rd and 4th year**, your first subjects of the year are block subjects starting in **Block 2**. In 2027 that's **30 March**, compared with **15 February** for trimester subjects. This gives you a longer summer break for [placement](placement.md#a-good-placement-timeline).
+- **Block subjects** are compressed into about **6–7 weeks** instead of a full trimester. It's best to do **no more than two block subjects at a time**.
+- **In 3rd and 4th year**, your first subjects of the year are block subjects starting in **Block 2**. In 2027, Block 2 runs from **15 March to 30 April**, while Trimester 1 starts on **15 February**. This gives you a longer summer break for [placement](placement.md#a-good-placement-timeline).
 
 ---
 
