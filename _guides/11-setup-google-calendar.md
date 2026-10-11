@@ -63,7 +63,6 @@ Now make two subscribe links:
 4. Paste your **embed code** on its own line where that line was, with a blank line before and after.
 5. In the embed code, change `width="800"` to `width="100%"` so it fits phone screens.
 6. Delete the whole grey `<!-- CALENDAR SETUP ... -->` note below it, including the old placeholder iframe inside it. You don't need it anymore.
-
 7. Add `&mode=AGENDA` to the end of the web address inside `src="..."`, just before the closing `"`. This shows a list of upcoming events, which is easier to read on phones. See [Changing the calendar view](#changing-the-calendar-view) below.
 
 ## Part 6: Put in the subscribe links
