@@ -32,6 +32,7 @@ Anything not known when the site was built is marked **PLACEHOLDER**. To find th
 | ~~Google Form links~~ (suggestions, event suggestions, subject review, testimonial) | ✅ Done October 2026 | [12](12-setup-google-forms.md) |
 | ~~Constitution PDF~~ | ✅ Done October 2026 (`files/CES-Constitution.pdf`) | [03](03-uploading-a-file.md) |
 | `[PLACEHOLDER: ...]` text on pages | Real content: committee names, placement steps, links, etc. | [01](01-editing-a-page.md) |
+| `PLACEHOLDER TOPICS` (hidden notes on `things-nobody-tells-you.md`) | Topics students have asked about that still need writing up. Hidden from the site until written | [01](01-editing-a-page.md) |
 
 Search only looks at the `main` branch and may take a few minutes to include brand-new changes.
 
