@@ -32,11 +32,17 @@ All CES events are on the calendar below. Click an event for details.
 
 <!--
   This calendar shows the "CES Events" Google Calendar (owned by cairns.engineering.society@gmail.com).
-  You never need to edit the line below. To add events, add them in Google Calendar.
-  See _guides/02-adding-an-event.md
+  To add events, add them in Google Calendar (see _guides/02-adding-an-event.md). You don't edit anything here.
+
+  CALENDAR VIEW: the end of the web address below says  &mode=AGENDA  (a list of upcoming events, easiest on phones).
+  To change the view, change only the word after mode= :
+    &mode=AGENDA  = list of upcoming events (current)
+    &mode=MONTH   = month grid (cramped on phones)
+    &mode=WEEK    = week view
+  Full instructions: _guides/11-setup-google-calendar.md, section "Changing the calendar view".
 -->
 
-<iframe src="https://calendar.google.com/calendar/embed?src=d9d1f1f2576f01714405e7e2301d3a6141c72bc7d1812b0f5403b1379cc56b9e%40group.calendar.google.com&ctz=Australia%2FBrisbane" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=d9d1f1f2576f01714405e7e2301d3a6141c72bc7d1812b0f5403b1379cc56b9e%40group.calendar.google.com&ctz=Australia%2FBrisbane&mode=AGENDA" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Add the CES calendar to your phone
 

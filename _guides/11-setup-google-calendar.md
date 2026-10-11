@@ -64,7 +64,7 @@ Now make two subscribe links:
 5. In the embed code, change `width="800"` to `width="100%"` so it fits phone screens.
 6. Delete the whole grey `<!-- CALENDAR SETUP ... -->` note below it, including the old placeholder iframe inside it. You don't need it anymore.
 
-**Tip:** on phones, a list view is easier to read than a month grid. To use it, add `&mode=AGENDA` just before the closing `"` of the `src="..."` part of the embed code.
+7. Add `&mode=AGENDA` to the end of the web address inside `src="..."`, just before the closing `"`. This shows a list of upcoming events, which is easier to read on phones. See [Changing the calendar view](#changing-the-calendar-view) below.
 
 ## Part 6: Put in the subscribe links
 
@@ -92,3 +92,37 @@ The same image can go on posters and slides. It never needs to change, because t
 After 1–2 minutes, open the live home page. You should see the calendar and the two working links. Scan the QR code with your phone to test it. Add a test event in Google Calendar, check it appears on the site within a few minutes, then delete it.
 
 **Calendar says "Events from one or more calendars could not be shown here because you do not have permission"?** Part 2 (Make available to public) wasn't saved. Redo it.
+
+---
+
+## Changing the calendar view
+
+The home page calendar can show events in three ways. It's currently set to **Agenda** (decided October 2026), because the month grid is cramped on phones and most students view the site on their phones.
+
+| View | What it looks like | Phones | Computers |
+|---|---|---|---|
+| `AGENDA` (current) | A scrolling list of upcoming events: date, time, title | ✅ Easy to read | OK |
+| `MONTH` | A traditional month grid | ❌ Cramped | ✅ Looks like a calendar |
+| `WEEK` | One week with time slots | ❌ Very cramped | OK |
+
+The view applies to everyone. A plain Markdown site can't show one view on phones and a different one on computers. Whichever view is set, visitors can still switch between views using the tabs at the top right of the calendar itself.
+
+### How to change it
+
+1. On GitHub, open `index.md` and click the pencil icon ✏️ (see [01 – Editing a page](01-editing-a-page.md)).
+2. Find the long line starting with `<iframe src="https://calendar.google.com/calendar/embed?`, just under the **## Calendar** heading. Press **Ctrl+F** (**Cmd+F** on a Mac) and search for `mode=` to jump to it.
+3. Near the end of that line you'll see `&mode=AGENDA`. **Change only the word after `mode=`** to `MONTH` or `WEEK`, in capitals. For example, `&mode=AGENDA` becomes `&mode=MONTH`.
+   - Don't change anything else on the line. The quotation marks, `&` symbols and the rest of the address must stay exactly as they are.
+4. Update the word "(current)" in the grey note just above the line, so the next person knows which view is set.
+5. Click **Commit changes...**, write a message like `Switch calendar to month view`, and click **Commit changes**.
+6. After 1–2 minutes, check the home page on both a phone and a computer.
+
+**Changed your mind?** Do the same steps again with the other word, or see [08 – Undoing a mistake](08-undoing-a-mistake.md).
+
+**Calendar disappeared after the change?** Something else on the line was accidentally changed. Compare it to this, which is the exact correct line for Agenda view:
+
+```
+<iframe src="https://calendar.google.com/calendar/embed?src=d9d1f1f2576f01714405e7e2301d3a6141c72bc7d1812b0f5403b1379cc56b9e%40group.calendar.google.com&ctz=Australia%2FBrisbane&mode=AGENDA" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+```
+
+You can paste that whole line back in to fix it.
