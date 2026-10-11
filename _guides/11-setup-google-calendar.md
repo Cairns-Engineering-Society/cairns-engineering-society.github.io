@@ -1,96 +1,35 @@
-# 11 – Setting up the Google Calendar (one time only)
+# 11 – Google Calendar setup (done, and how to redo it)
 
-This sets up the CES events calendar shown on the home page and the "add to your phone" links. **You only do this once.** After that, adding events is just [02 – Adding an event](02-adding-an-event.md).
+The home page calendar and the "add to your phone" links come from a Google Calendar called **CES Events**. **This is already set up**, so to add events, just follow [02 – Adding an event](02-adding-an-event.md).
 
-**Time:** about 20 minutes
-**You need:** the CES Google account login, and an editor account on GitHub
-
-> ✅ **Already done (October 2026).** The **CES Events** calendar is set up, public, and on the home page, with subscribe links and the QR code. You only need this guide if it ever has to be set up again (e.g. the calendar is deleted).
->
-> - **Owner:** `cairns.engineering.society@gmail.com`
-> - **Calendar:** CES Events, Brisbane time
-> - **Calendar ID:** `d9d1f1f2576f01714405e7e2301d3a6141c72bc7d1812b0f5403b1379cc56b9e@group.calendar.google.com`
-> - **QR code:** `images/calendar-qr.png`. It points to the Google subscribe link. Use it on posters and slides.
-> - The account's **main** calendar is deliberately **not** public. Only put public events in **CES Events**.
+Use this guide if you need to **change the calendar view**, **check how it's set up**, or **set it up again** (e.g. if the calendar was deleted).
 
 ---
 
-## Part 1: Create the calendar
+## How it's set up now (October 2026)
 
-1. Sign in to [calendar.google.com](https://calendar.google.com) **as the CES Google account**.
-2. On the left, next to **Other calendars**, click **+** → **Create new calendar**.
-3. **Name:** `CES Events`. **Description:** `Cairns Engineering Society events`. **Time zone:** `(GMT+10:00) Brisbane`. Cairns is in Queensland, so there's no daylight saving.
-4. Click **Create calendar**.
+| What | Setting |
+|---|---|
+| Owner | The CES Google account, `cairns.engineering.society@gmail.com` |
+| Calendar name | **CES Events** |
+| Time zone | Brisbane (Cairns has no daylight saving) |
+| Public? | ✅ Yes, "See all event details". **Anything you put in a CES Events event is public.** |
+| The account's main calendar | Deliberately **not** public. Only put public events in **CES Events**. |
+| Calendar ID | `d9d1f1f2576f01714405e7e2301d3a6141c72bc7d1812b0f5403b1379cc56b9e@group.calendar.google.com` |
+| On the website | The home page (`index.md`), under **## Calendar**, in **Agenda** view |
+| Subscribe links | Under **### Add the CES calendar to your phone** on the home page |
+| QR code | `images/calendar-qr.png`. It opens the Google subscribe link. Use it on posters and slides. It never needs to change unless the calendar is replaced. |
 
-**Why a separate calendar?** Only events in *this* calendar will appear on the website. The CES account's own main calendar stays private.
-
-## Part 2: Make it public
-
-1. On the left, hover over **CES Events** → click **⋮** → **Settings and sharing**.
-2. Under **Access permissions for events**, tick **Make available to public**, and make sure the drop-down says **See all event details**. Confirm the warning.
-
-⚠️ **Everyone can now see every event in this calendar**, including descriptions. Never put private information in an event.
-
-## Part 3: Let committee members add events (optional)
+## Giving committee members access
 
 Committee members can add events from their own Google accounts instead of signing in as CES:
 
-1. Same settings page → **Share with specific people or groups** → **Add people and groups**.
-2. Add their email, set permission to **Make changes to events**, and click **Send**.
+1. Sign in to [calendar.google.com](https://calendar.google.com) **as the CES Google account**.
+2. On the left, hover over **CES Events** → click **⋮** → **Settings and sharing**.
+3. Under **Share with specific people or groups**, click **Add people and groups**.
+4. Add their email, set the permission to **Make changes to events**, and click **Send**.
 
-Remove people here when they leave the committee (it's on the [handover checklist](09-committee-handover.md)).
-
-## Part 4: Get the links you need
-
-Still on the same settings page, scroll down to **Integrate calendar**. Copy these into a note:
-
-| What | Where to find it | Used for |
-|---|---|---|
-| **Embed code** | "Embed code" box (starts with `<iframe`) | The calendar on the home page |
-| **Public address in iCal format** | "Public address in iCal format" (ends in `.ics`) | The iPhone/Outlook subscribe link |
-| **Calendar ID** | "Calendar ID" (looks like a long email address ending `@group.calendar.google.com`) | Building the Google subscribe link |
-
-Now make two subscribe links:
-
-- **Google / Android link:** scroll back up to **Access permissions for events** and click **Get shareable link**. Copy the link. It looks like `https://calendar.google.com/calendar/u/0?cid=...`
-- **iPhone / Outlook link:** take the iCal address and change the `https://` at the start to `webcal://`. For example, `https://calendar.google.com/calendar/ical/abc%40group.calendar.google.com/public/basic.ics` becomes `webcal://calendar.google.com/calendar/ical/abc%40group.calendar.google.com/public/basic.ics`. On iPhones and Macs, `webcal://` opens a "Subscribe?" prompt automatically.
-
-## Part 5: Put the calendar on the home page
-
-1. On GitHub, open `index.md` and click the pencil icon ✏️ (see [01 – Editing a page](01-editing-a-page.md)).
-2. Find the **## Calendar** section.
-3. Delete the line `*Calendar coming soon.*`
-4. Paste your **embed code** on its own line where that line was, with a blank line before and after.
-5. In the embed code, change `width="800"` to `width="100%"` so it fits phone screens.
-6. Delete the whole grey `<!-- CALENDAR SETUP ... -->` note below it, including the old placeholder iframe inside it. You don't need it anymore.
-7. Add `&mode=AGENDA` to the end of the web address inside `src="..."`, just before the closing `"`. This shows a list of upcoming events, which is easier to read on phones. See [Changing the calendar view](#changing-the-calendar-view) below.
-
-## Part 6: Put in the subscribe links
-
-Still in `index.md`, under **### Add the CES calendar to your phone**:
-
-1. Replace `PLACEHOLDER-GOOGLE-CALENDAR-SUBSCRIBE-LINK` with the **Google / Android link**.
-2. Replace `PLACEHOLDER-WEBCAL-LINK` with the **iPhone / Outlook link** (the `webcal://` one).
-3. Commit.
-
-## Part 7: Make the QR code
-
-The QR code lets people subscribe by scanning a poster or a slide.
-
-1. Use any **free QR code generator** to make a QR code for the **Google / Android subscribe link**.
-   ⚠️ Avoid sites offering "dynamic" QR codes or free trials. Many of them **stop working after a trial period**. You want a plain **static** QR code that you download as an image.
-2. Download it as a **PNG** and rename it `calendar-qr.png`.
-3. Upload it into the `images/` folder (see [03 – Uploading a file](03-uploading-a-file.md)).
-4. Open `index.md`. Find the grey `<!-- QR CODE: ... -->` note, move the `![Scan this QR code...](images/calendar-qr.png)` line **out of it** (put it just above the note), and delete the rest of the note.
-5. Commit.
-
-The same image can go on posters and slides. It never needs to change, because the link never changes.
-
-## Check it worked
-
-After 1–2 minutes, open the live home page. You should see the calendar and the two working links. Scan the QR code with your phone to test it. Add a test event in Google Calendar, check it appears on the site within a few minutes, then delete it.
-
-**Calendar says "Events from one or more calendars could not be shown here because you do not have permission"?** Part 2 (Make available to public) wasn't saved. Redo it.
+To remove someone, click the **✕** next to their name on the same page. This is on the [handover checklist](09-committee-handover.md).
 
 ---
 
@@ -125,3 +64,58 @@ The view applies to everyone. A plain Markdown site can't show one view on phone
 ```
 
 You can paste that whole line back in to fix it.
+
+---
+
+## Setting it up again from scratch
+
+Only needed if the CES Events calendar is ever deleted or replaced. **Time:** about 20 minutes. **You need:** the CES Google account login and a GitHub editor account.
+
+### Part 1: Create the calendar
+
+1. Sign in to [calendar.google.com](https://calendar.google.com) **as the CES Google account**.
+2. On the left, next to **Other calendars**, click **+** → **Create new calendar**.
+3. **Name:** `CES Events`. **Time zone:** `(GMT+10:00) Brisbane`. **Description:**
+   > Events calendar of the Cairns Engineering Society (CES), the student engineering society at JCU Cairns. Social, industry and study events for engineering students. All times are Brisbane time (AEST). More info: https://cairns-engineering-society.github.io
+4. Click **Create calendar**.
+
+**Why a separate calendar?** Only events in *this* calendar appear on the website. The account's main calendar stays private, and subscribers see the name "CES Events" instead of an email address.
+
+### Part 2: Make it public
+
+1. Hover over **CES Events** → **⋮** → **Settings and sharing**.
+2. Under **Access permissions for events**, tick **Make available to public**, and make sure the drop-down says **See all event details**. Confirm the warning.
+
+### Part 3: Get the new links
+
+On the same settings page:
+
+| What | Where to find it |
+|---|---|
+| **Embed code** | **Integrate calendar** → "Embed code" (starts with `<iframe`) |
+| **Google / Android subscribe link** | **Access permissions for events** → **Get shareable link** (looks like `https://calendar.google.com/calendar/u/0?cid=...`) |
+| **iPhone / Outlook subscribe link** | **Integrate calendar** → "Public address in iCal format" (ends in `.ics`). Change the `https://` at the start to `webcal://`, which makes iPhones and Macs show a "Subscribe?" prompt. |
+
+### Part 4: Update the home page
+
+1. On GitHub, open `index.md` and click the pencil icon ✏️.
+2. Under **## Calendar**, replace the whole `<iframe ...></iframe>` line with the new **embed code**. Then, in the new line:
+   - change `width="800"` to `width="100%"` so it fits phone screens, and
+   - add `&mode=AGENDA` to the end of the web address inside `src="..."`, just before the closing `"`.
+3. Under **### Add the CES calendar to your phone**, replace the two old subscribe links with the new ones. Replace only the address inside the `( )` brackets.
+4. Update the exact line in [Changing the calendar view](#changing-the-calendar-view) above and the table at the top of this guide, so they match the new calendar.
+5. Commit.
+
+### Part 5: Make a new QR code
+
+1. Use any **free QR code generator** to make a QR code for the new **Google / Android subscribe link**.
+   ⚠️ Avoid sites offering "dynamic" QR codes or free trials. Many of them **stop working after a trial period**. You want a plain **static** QR code that you download as an image.
+2. Download it as a **PNG** and name it exactly `calendar-qr.png`.
+3. Upload it into the `images/` folder (see [03 – Uploading a file](03-uploading-a-file.md)). Because the name is the same, it replaces the old one and the home page shows it automatically.
+4. Replace the QR code on any posters or slides too.
+
+### Check it worked
+
+After 1–2 minutes, open the live home page. You should see the calendar and two working subscribe links. Scan the QR code with your phone to test it. Add a test event in Google Calendar, check it appears on the site within a few minutes, then delete it.
+
+**Calendar says "Events from one or more calendars could not be shown here because you do not have permission"?** Part 2 (Make available to public) wasn't saved. Redo it.

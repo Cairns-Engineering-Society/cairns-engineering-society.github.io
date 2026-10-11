@@ -31,7 +31,7 @@ How to change any text on the website. Every other guide builds on this one, so 
 5. **Make your changes** in the editor. The text is Markdown. See [07 – Markdown cheat sheet](07-markdown-cheat-sheet.md) for bold, links, lists, etc.
    - Click the **Preview** tab at the top of the editor to see roughly how it will look. Click **Edit** to go back.
 6. **Click the green "Commit changes..." button** (top right).
-7. In the box that pops up, write a **short description** of what you changed in the "Commit message" field, e.g. `Add Trimester 3 BBQ to events`. Leave "Commit directly to the main branch" selected.
+7. In the box that pops up, write a **short description** of what you changed in the "Commit message" field, e.g. `Update BBQ description on events page`. Leave "Commit directly to the main branch" selected.
 8. **Click "Commit changes"**.
 
 ## Check it worked

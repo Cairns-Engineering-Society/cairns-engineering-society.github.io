@@ -1,6 +1,8 @@
-# 13 – Setting up GitHub Pages (one time only)
+# 13 – GitHub Pages setup (done, and what to check)
 
-How the website was switched on, and the placeholders that still need to be filled in. You only need this guide when the site is first launched, or if the site ever stops appearing.
+How the website is switched on, what still needs filling in, and what to do if the site ever stops appearing.
+
+> ✅ **The site is live** at https://cairns-engineering-society.github.io (switched on October 2026). You only need the "Turning the website on" steps if it ever gets switched off.
 
 ---
 
@@ -31,7 +33,8 @@ Anything not known when the site was built is marked **PLACEHOLDER**. To find th
 | ~~Calendar embed and subscribe links~~ | ✅ Done October 2026 | [11](11-setup-google-calendar.md) |
 | ~~Google Form links~~ (suggestions, event suggestions, subject review, testimonial) | ✅ Done October 2026 | [12](12-setup-google-forms.md) |
 | ~~Constitution PDF~~ | ✅ Done October 2026 (`files/CES-Constitution.pdf`) | [03](03-uploading-a-file.md) |
-| `[PLACEHOLDER: ...]` text on pages | Real content: committee names, placement steps, links, etc. | [01](01-editing-a-page.md) |
+| `[PLACEHOLDER: how students find the course coordinator...]` in `degree.md` | How students find the course coordinator's contact details | [01](01-editing-a-page.md) |
+| `[PLACEHOLDER: ...]` in guide 09 (handover) | Where the CES logins are kept (never the logins themselves) | [09](09-committee-handover.md) |
 | `PLACEHOLDER TOPICS` (hidden notes on `things-nobody-tells-you.md`) | Topics students have asked about that still need writing up. Hidden from the site until written | [01](01-editing-a-page.md) |
 
 Search only looks at the `main` branch and may take a few minutes to include brand-new changes.
@@ -42,7 +45,8 @@ Search only looks at the `main` branch and may take a few minutes to include bra
 - [ ] Calendar shows on the home page, and both subscribe links and the QR code work.
 - [ ] Every link on the home page opens the right page, and every "← Back to home" link works.
 - [ ] Constitution PDF opens from the Documents page.
-- [ ] Placement page checked against the official documents (and ideally by the placement coordinator).
+- [ ] Placement page checked against the official documents (and ideally by the Student Placements Team).
+- [ ] Subject and degree pages match the current year's JCU handbook.
 - [ ] Checked on a phone as well as a computer.
 
 ## If the site ever disappears

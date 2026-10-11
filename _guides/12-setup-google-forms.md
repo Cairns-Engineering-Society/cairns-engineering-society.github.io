@@ -1,27 +1,21 @@
-# 12 – Setting up Google Forms (one time only)
+# 12 – Google Forms (done, and how to redo them)
 
-Four forms let students contribute **without needing GitHub**. The committee reviews responses and copies the good ones onto the site.
+Four Google Forms let students contribute **without needing GitHub**. The committee reviews the responses and copies the good ones onto the site. **All four are already set up and linked from the site** (October 2026).
 
-| Form | Linked from | Replaces this placeholder |
-|---|---|---|
-| **Suggestions** | Every page footer, home page, About page | `PLACEHOLDER-SUGGESTION-FORM-LINK` |
-| **Subject review** | Subject pages | `PLACEHOLDER-SUBJECT-REVIEW-FORM-LINK` |
-| **Testimonial** | Testimonials page | `PLACEHOLDER-TESTIMONIAL-FORM-LINK` |
-| **Event suggestions** | Events page | `PLACEHOLDER-EVENT-SUGGESTION-FORM-LINK` |
+| Form | Link | Linked from | Responses used in |
+|---|---|---|---|
+| **Suggest something for the CES website** | https://forms.gle/n4fg7VV2BTVFQaYu6 | Every page footer, the home page, About, Placement, Things nobody tells you | Fixing and improving any page |
+| **Review a subject** | https://forms.gle/J5Wc61eYJdNEJ3gW7 | Subjects pages (every subject dropdown) | [04 – Adding a subject](04-adding-a-subject.md) |
+| **Share your experience** (testimonial) | https://forms.gle/UomxoXyUfCtqANSL6 | Testimonials page | [05 – Adding a testimonial](05-adding-a-testimonial.md) |
+| **Suggest an event** | https://forms.gle/sGoZM1dob3ePv7Xd8 | Events page | Planning events at committee meetings |
 
-**Time:** about 10 minutes per form
-**You need:** the CES Google account login
+All four forms and their response spreadsheets belong to the CES Google account (`cairns.engineering.society@gmail.com`).
 
-> ✅ **Already done (October 2026).** All four forms exist in the CES Google account (`cairns.engineering.society@gmail.com`) and are linked from the site:
->
-> | Form | Link |
-> |---|---|
-> | Suggest something for the CES website | https://forms.gle/n4fg7VV2BTVFQaYu6 |
-> | Review a subject | https://forms.gle/J5Wc61eYJdNEJ3gW7 |
-> | Share your experience (testimonial) | https://forms.gle/UomxoXyUfCtqANSL6 |
-> | Suggest an event | https://forms.gle/sGoZM1dob3ePv7Xd8 |
->
-> To change a question, edit the form in Google Forms. The link stays the same, so you don't need to touch the website. You only need the rest of this guide if a form has to be made again. If that happens, search the repository for the **old** link and replace it with the new one.
+**Changing a question?** Edit the form in Google Forms. The link stays the same, so you don't need to touch the website.
+
+**When a new major starts** (e.g. Civil in Cairns), add it to the "Your major" question in the subject review and testimonial forms.
+
+The rest of this guide is only needed if a form ever has to be **made again from scratch**.
 
 ---
 
@@ -55,7 +49,7 @@ Description: *Help the next group of students know what to expect. Reviews are c
 | Subject code (e.g. EG1000) | Short answer | ✅ |
 | Subject name | Short answer | |
 | When did you take it? (e.g. Trimester 1, 2026) | Short answer | ✅ |
-| Your major | Multiple choice: Electrical / IoT / Mechanical / Other | ✅ |
+| Your major | Multiple choice: Electrical / IoT / Mechanical / Maritime / Other | ✅ |
 | What was the subject actually like? | Paragraph | ✅ |
 | Workload | Multiple choice: Light / Moderate / Heavy | ✅ |
 | What was the assessment like? | Paragraph | |
@@ -72,7 +66,7 @@ Description: *Tell future students about your engineering degree, placement or C
 | Question | Type | Required? |
 |---|---|---|
 | Your testimonial | Paragraph | ✅ |
-| Your major | Multiple choice: Electrical / IoT / Mechanical / Other | ✅ |
+| Your major | Multiple choice: Electrical / IoT / Mechanical / Maritime / Other | ✅ |
 | Where are you up to? (e.g. 3rd year, Graduated 2025) | Short answer | ✅ |
 | How should we credit you? | Multiple choice: "First name" / "Anonymous" | ✅ |
 | First name (only if you chose "First name") | Short answer | |
@@ -92,15 +86,16 @@ Description: *Is there an event you'd like CES to run? Tell us your idea. The co
 | Would you be keen to help organise it? | Multiple choice: Yes / Maybe / No | |
 | If yes or maybe, how can we contact you? | Short answer | |
 
-## Put the links on the site
+## If a form is made again: update the links
 
-Each placeholder appears on **several pages**, so replace every one:
+A new form has a new link, so every place the old link appears needs updating:
 
-1. On the repository's main page, press `/` and search for the placeholder, e.g. `PLACEHOLDER-SUGGESTION-FORM-LINK`. GitHub lists every file containing it.
-2. For each file: open it, click the pencil icon ✏️, and replace the placeholder with the form link. Press **Ctrl+F** (**Cmd+F** on a Mac) to find each one in the file. Then commit.
+1. On the repository's main page, press `/` and search for the end part of the **old** link (e.g. `n4fg7VV2BTVFQaYu6`). GitHub lists every file containing it.
+2. For each file: open it, click the pencil icon ✏️, press **Ctrl+F** (**Cmd+F** on a Mac) to find each copy of the old link, replace it with the new link, then commit.
 3. Repeat the search until it finds nothing.
+4. Update the table at the top of this guide.
 
-Don't forget the footer line in [`_templates/new-page.md`](../_templates/new-page.md), so new pages get the right link.
+The suggestions form link is also in the footer of [`_templates/new-page.md`](../_templates/new-page.md), and the subject review link is in [`_templates/new-subject.md`](../_templates/new-subject.md). The search finds those too.
 
 ## Checking responses
 

@@ -28,19 +28,19 @@ Nothing can break permanently, because every version is saved forever.
 | Fix something I broke | [08 – Undoing a mistake](_guides/08-undoing-a-mistake.md) |
 | Hand the site over to the new committee | [09 – Committee handover](_guides/09-committee-handover.md) |
 | Give someone edit access (or remove it) | [10 – Adding or removing an editor](_guides/10-adding-or-removing-an-editor.md) |
-| Set up the Google Calendar (one time) | [11 – Setting up Google Calendar](_guides/11-setup-google-calendar.md) |
-| Set up the Google Forms (one time) | [12 – Setting up Google Forms](_guides/12-setup-google-forms.md) |
-| Switch the website on / fill in placeholders (one time) | [13 – Setting up GitHub Pages](_guides/13-setup-github-pages.md) |
+| Change the calendar view, or give someone calendar access | [11 – Google Calendar](_guides/11-setup-google-calendar.md) |
+| Find the Google Form links, or remake a form | [12 – Google Forms](_guides/12-setup-google-forms.md) |
+| See what's left to fill in, or fix the site if it disappears | [13 – GitHub Pages](_guides/13-setup-github-pages.md) |
 
 ## What's in this repository
 
 | Folder / file | What it is | On the website? |
 |---|---|---|
 | `index.md`, `about.md`, `events.md`, … | The website pages | ✅ |
-| `subjects/` | Subject pages, one per year | ✅ |
-| `files/` | PDFs (constitution, minutes) | ✅ |
+| `subjects/` | Subject pages, one per level (first digit of the subject code) | ✅ |
+| `files/` | Downloadable files (constitution PDF, hours log template) | ✅ |
 | `images/` | Images (calendar QR code) | ✅ |
-| `_templates/` | Copy-paste blocks for events, subjects, testimonials, tips, documents and new pages | ❌ |
+| `_templates/` | Copy-paste blocks for past events, regular events, subjects, testimonials, tips, documents and new pages | ❌ |
 | `_guides/` | Step-by-step guides | ❌ |
 | `_config.yml` | Site settings (rarely touched) | ❌ |
 | `README.md` | This page | ❌ |
@@ -50,5 +50,5 @@ Nothing can break permanently, because every version is saved forever.
 1. **Everything here is public.** No phone numbers, student IDs, passwords or internal documents. Those go in the CES Google Drive.
 2. **Use the templates.** They have instructions inside, and they keep everything consistent.
 3. **Leave the grey `<!-- notes -->` in place.** They're hidden instructions for the next editor.
-4. **Write a clear commit message**, e.g. `Add Trimester 3 BBQ`, so others can see what changed.
+4. **Write a clear commit message**, e.g. `Add review for EG1000`, so others can see what changed.
 5. **Check the live site** 1–2 minutes after saving.

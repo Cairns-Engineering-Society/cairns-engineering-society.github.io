@@ -1,6 +1,6 @@
-# 03 – Uploading a file (PDF or image)
+# 03 – Uploading a file (PDF, Excel or image)
 
-How to put a PDF (e.g. the constitution or minutes) or an image (e.g. the calendar QR code) on the site.
+How to put a downloadable file (e.g. the constitution PDF, minutes, or an Excel template like the service and leadership hours log) or an image (e.g. the calendar QR code) on the site.
 
 **Time:** about 3 minutes
 
@@ -13,12 +13,13 @@ How to put a PDF (e.g. the constitution or minutes) or an image (e.g. the calend
   - **No spaces.** Use hyphens instead: `CES-Constitution.pdf`, not `CES Constitution 2025.pdf`. Spaces cause broken links.
   - Keep it short and clear. For one-off documents (e.g. minutes), include the date: `CES-AGM-Minutes-2026.pdf`.
   - For documents that get **replaced** with new versions (e.g. the constitution), **leave the year out**: `CES-Constitution.pdf`. Then you can upload a new version with the same name and every link keeps working.
-- **PDFs go in `files/`. Images go in `images/`.**
+- **Documents (PDF, Excel, Word) go in `files/`. Images go in `images/`.**
+- **Prefer PDF for documents people only need to read.** Use Excel or Word only for templates people need to fill in.
 
 ## Steps
 
 1. Go to the repository: https://github.com/cairns-engineering-society/cairns-engineering-society.github.io
-2. Click the **`files`** folder (for a PDF) or the **`images`** folder (for an image).
+2. Click the **`files`** folder (for a document) or the **`images`** folder (for an image).
 3. Click **Add file** (top right), then **Upload files**.
 4. Drag your file onto the page, or click **choose your files** to find it.
 5. Wait for the upload bar to finish.
@@ -43,7 +44,7 @@ How to put a PDF (e.g. the constitution or minutes) or an image (e.g. the calend
 
 **Linking from a page inside `subjects/`?** Add `../` at the start, e.g. `../files/CES-Constitution.pdf`.
 
-The file name in the link must match **exactly**, including capitals and the `.pdf` / `.png` ending.
+The file name in the link must match **exactly**, including capitals and the ending (`.pdf`, `.xlsx`, `.png`).
 
 ## Check it worked
 

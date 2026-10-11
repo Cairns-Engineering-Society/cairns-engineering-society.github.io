@@ -40,6 +40,13 @@ A page nobody links to is invisible. Add it to the home page:
 
 (For a page in `subjects/`, link to it from `subjects/index.md` instead, e.g. `- [Dual degrees](dual-degrees.md)`.)
 
+### 4. Add it to the guides
+
+So the next editor knows the page exists, add one line for it to:
+
+- the **The pages** table in [00 – How this site works](00-how-this-site-works.md), and
+- the **To change… / Click…** table in [01 – Editing a page](01-editing-a-page.md).
+
 ## Check it worked
 
 After 1–2 minutes, open the live home page, click your new link, and check the "← Back to home" link works.

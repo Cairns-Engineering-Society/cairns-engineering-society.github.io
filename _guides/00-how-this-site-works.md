@@ -9,9 +9,11 @@ This guide explains the big picture: what the site is, how it gets from this rep
 The Cairns Engineering Society (CES) website is a single, free place where JCU Cairns engineering students can find:
 
 - what CES is and how to get involved
-- CES events this trimester (plus a live calendar)
-- student-written descriptions of subjects ("what is this subject actually like?")
+- the events CES runs (plus a live calendar of upcoming events)
+- how the degree works and what you can study in Cairns
+- every subject, with student-written descriptions ("what is this subject actually like?")
 - a clear, step-by-step guide to placement
+- careers and jobs while studying
 - CES documents like the constitution
 - past student testimonials
 - useful JCU links and "things nobody tells you"
@@ -40,14 +42,14 @@ That's it. There is no server, no hosting bill, no domain to renew, and nothing 
 | Thing | Where | Shows on the website? |
 |---|---|---|
 | Website pages | `.md` files in the main folder and in `subjects/` | ✅ Yes |
-| PDFs (constitution, minutes, forms) | `files/` folder | ✅ Yes, when a page links to them |
+| Downloadable files (constitution PDF, service and leadership hours log template) | `files/` folder | ✅ Yes, when a page links to them |
 | Images (calendar QR code, photos) | `images/` folder | ✅ Yes, when a page shows them |
 | Copy-paste templates | `_templates/` folder | ❌ No |
 | These guides | `_guides/` folder | ❌ No |
 | Instructions for editors | `README.md` | ❌ No |
 | Site settings | `_config.yml` | ❌ No (it controls the site) |
 | Event dates | The CES **Google Calendar** | ✅ Yes, via the calendar on the home page |
-| Form responses (subject reviews, testimonials, suggestions) | **Google Forms / Sheets** in the CES Google account | ❌ No (committee copies the good ones onto the site) |
+| Form responses (suggestions, event ideas, subject reviews, testimonials) | **Google Forms / Sheets** in the CES Google account | ❌ No (committee copies the good ones onto the site) |
 | Private committee material (passwords, internal minutes, member lists, budgets) | **CES Google Drive** – NEVER this repository | ❌ No |
 
 **Important:** any folder or file whose name starts with `_` (an underscore) is hidden from the **website**, but this repository is **public**, so anyone who goes looking on github.com could still read it. That's fine for guides and templates. **Never put anything private in this repository.**
@@ -68,7 +70,7 @@ That's it. There is no server, no hosting bill, no domain to renew, and nothing 
 | `testimonials.md` | Past student testimonials |
 | `resources.md` | Directory of hard-to-find JCU links |
 | `documents.md` | Links to CES documents in `files/` |
-| `subjects/index.md` | "Pick your year" page for subjects |
+| `subjects/index.md` | "Pick a level" page for subjects, and how the subject pages work |
 | `subjects/level-1.md` … `level-4.md` | Each subject in a dropdown, grouped by who takes it (level = first digit of the subject code) |
 
 ---
@@ -85,7 +87,11 @@ These were decided when the site was first built (October 2026). If you want to 
 | **No navigation menu**; home page has a link list and every page has "← Back to home" | A menu would need code. A list of links can't break. |
 | **Google Calendar** embedded on the home page, in **Agenda (list) view** | Committee add events in the normal Google Calendar app and the site updates instantly with no GitHub edit. Students can subscribe on their phones. Agenda view because the month grid is cramped on phones. To switch views, see [11 – Changing the calendar view](11-setup-google-calendar.md#changing-the-calendar-view). |
 | **Subjects: one page per level (first digit of the subject code), each subject in a dropdown, grouped by who takes it** | Levels instead of years because some higher-level subjects are taken earlier (e.g. level 3 in 2nd year). Each subject is written once, with a **"Taken by:"** line (e.g. the Mechatronics minor uses Mechanical core subjects, so we don't duplicate them). Maritime has its own group because of its move-to-Tasmania conditions. |
-| **Subject pages describe what subjects are *like*** and link to the official JCU handbook | We share student experience, not official content. Official details (prerequisites, credit points) change, and copying them would go out of date and raise copyright issues. |
+| **Subject pages describe what subjects are *like*** and link to the official JCU handbook | We list each subject's code, who takes it and when it runs in Cairns (checked against the handbook each year), but share student experience rather than copying official content. Official details (prerequisites, assessment, credit points) change, and copying them would go out of date and raise copyright issues. |
+| **Cairns only, current year's handbook** | The site is for Cairns students, so it only covers what's offered in Cairns, including the conditions that involve moving campus (Mechanical residentials, Maritime moving to Tasmania). It shows the upcoming year's handbook (2027 when first built). |
+| **About page lists committee roles, not names** | Names change every year. Roles only means one less thing to keep up to date. Students can ask on Discord who holds each role. |
+| **Don't host copies of JCU forms and handbooks** | JCU updates them. The placement page says exactly where to find them on LearnJCU instead. |
+| **Unwritten topics are hidden notes, not visible placeholders** | `things-nobody-tells-you.md` keeps a hidden "PLACEHOLDER TOPICS" list so the live page never shows half-finished text. Only write up what you know is correct. |
 | **Events page is an overview, not a schedule.** Dates live only in the Google Calendar | One place to update dates, so the site never shows two different times for the same event. The Events page shows what CES does (regular and past events) for new students. |
 | **Google Forms** for suggestions, event ideas, subject reviews and testimonials | Students can contribute without touching GitHub. The committee reviews before anything goes live. |
 | **Repository owned by the CES GitHub account; committee members use their own accounts as "collaborators"** | The site survives committee turnover. Everyone's edits are tracked under their own name. No shared password juggling. |
@@ -114,6 +120,6 @@ When the site was first built, some details weren't known yet. They're marked wi
 | [08 – Undoing a mistake](08-undoing-a-mistake.md) | fix something that broke |
 | [09 – Committee handover](09-committee-handover.md) | hand the site over to a new committee |
 | [10 – Adding or removing an editor](10-adding-or-removing-an-editor.md) | give someone edit access (or take it away) |
-| [11 – Setting up Google Calendar](11-setup-google-calendar.md) | one-time calendar setup |
-| [12 – Setting up Google Forms](12-setup-google-forms.md) | one-time forms setup |
-| [13 – Setting up GitHub Pages](13-setup-github-pages.md) | one-time site setup |
+| [11 – Google Calendar](11-setup-google-calendar.md) | change the calendar view, give committee access, or set the calendar up again |
+| [12 – Google Forms](12-setup-google-forms.md) | see the form links, or remake a form |
+| [13 – GitHub Pages](13-setup-github-pages.md) | check what's left to fill in, or fix the site if it disappears |

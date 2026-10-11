@@ -45,7 +45,8 @@ Do it **together**: one outgoing and one incoming committee member, sitting toge
 - [ ] Look through the **event suggestions** form responses with the new committee.
 - [ ] Upload the AGM minutes to the **Documents** page if they're public (see [03 – Uploading a file](03-uploading-a-file.md)).
 - [ ] Update the **constitution** PDF if it changed.
-- [ ] Skim each page for anything out of date (old dates, broken links).
+- [ ] Skim each page for anything out of date (old dates, broken links). Check the [Discord invite link](https://discord.gg/rsNMRNq7uh) still works.
+- [ ] **Placement page:** check it against the current Engineering Professional Practice Handbook on LearnJCU and update its "Last checked" line. Check the rules in `files/Service-and-Leadership-Hours-Log-Template.xlsx` still match.
 - [ ] **New JCU handbook:** check the subject pages and `degree.md` against the new year's handbook. See [04 – Adding a subject](04-adding-a-subject.md#each-new-year-updating-for-the-new-handbook).
 
 ### Knowledge
@@ -61,4 +62,4 @@ Do it **together**: one outgoing and one incoming committee member, sitting toge
 
 | Date | Outgoing | Incoming | Notes |
 |---|---|---|---|
-| [PLACEHOLDER] | | | Site first built October 2026 |
+| October 2026 | | | Site first built and launched at the CES info night |
