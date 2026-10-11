@@ -39,7 +39,7 @@ Do it **together**: one outgoing and one incoming committee member, sitting toge
 
 ### Website content
 
-- [ ] Update the committee table on the **About** page (`about.md`).
+- [ ] The **About** page (`about.md`) lists committee **roles only, not names**, so it doesn't need updating each year. Only change it if the constitution changes the roles.
 - [ ] Update the **contact details** on the About page if they changed.
 - [ ] Check **Past events** on the Events page (`events.md`) is up to date, and that the **regular events** descriptions still match what CES runs.
 - [ ] Look through the **event suggestions** form responses with the new committee.
