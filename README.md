@@ -31,6 +31,7 @@ Nothing can break permanently, because every version is saved forever.
 | Change the calendar view, or give someone calendar access | [11 – Google Calendar](_guides/11-setup-google-calendar.md) |
 | Find the Google Form links, or remake a form | [12 – Google Forms](_guides/12-setup-google-forms.md) |
 | See what's left to fill in, or fix the site if it disappears | [13 – GitHub Pages](_guides/13-setup-github-pages.md) |
+| See what still needs doing on the site | [14 – To-do list](_guides/14-to-do-list.md) |
 
 ## What's in this repository
 

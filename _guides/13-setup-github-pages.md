@@ -36,6 +36,8 @@ Anything not known when the site was built is marked **PLACEHOLDER**. To find th
 | ~~Course coordinator contact (`degree.md`) and logins location (guide 09)~~ | ✅ Done October 2026 | |
 | `PLACEHOLDER TOPICS` (hidden notes on `things-nobody-tells-you.md`) | Topics students have asked about that still need writing up. Hidden from the site until written | [01](01-editing-a-page.md) |
 
+For everything else that still needs adding or changing, see the [14 – To-do list](14-to-do-list.md).
+
 Search only looks at the `main` branch and may take a few minutes to include brand-new changes.
 
 ## Before telling students about the site

@@ -123,3 +123,4 @@ When the site was first built, some details weren't known yet. They're marked wi
 | [11 – Google Calendar](11-setup-google-calendar.md) | change the calendar view, give committee access, or set the calendar up again |
 | [12 – Google Forms](12-setup-google-forms.md) | see the form links, or remake a form |
 | [13 – GitHub Pages](13-setup-github-pages.md) | check what's left to fill in, or fix the site if it disappears |
+| [14 – To-do list](14-to-do-list.md) | see what still needs adding or changing on the site |
